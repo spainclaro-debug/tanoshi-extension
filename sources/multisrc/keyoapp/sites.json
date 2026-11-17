@@ -1,0 +1,69 @@
+[
+  {
+    "key": "keyoapp-erisscans",
+    "name": "Eris Scans",
+    "url": "https://erisscans.com",
+    "id": 8358420357808595754,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/erisscans.com.ico",
+    "variant": "classic",
+    "detail_mode": "erisscans"
+  },
+  {
+    "key": "keyoapp-kewnscans",
+    "name": "Kewn Scans",
+    "url": "https://kewnscans.org",
+    "id": 2816768640766208312,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/kewnscans.org.ico",
+    "variant": "classic"
+  },
+  {
+    "key": "keyoapp-nyanukafe",
+    "name": "Nyanu Kafe",
+    "url": "https://nyanukafe.com",
+    "id": 3025454996745441538,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/nyanukafe.com.ico",
+    "variant": "classic",
+    "popular_mode": "splide",
+    "detail_mode": "nyanukafe"
+  },
+  {
+    "key": "keyoapp-suryascans",
+    "name": "Genz Toons",
+    "url": "https://genztoons.org",
+    "id": 1061713767402958340,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/genztoons.org.ico",
+    "variant": "classic",
+    "popular_mode": "search_page"
+  },
+  {
+    "key": "keyoapp-timelesstoons",
+    "name": "TimelessToons",
+    "url": "https://timelesstoons.org",
+    "id": 9063123408669132087,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/timelesstoons.org.ico",
+    "variant": "classic",
+    "popular_mode": "trending2",
+    "latest_mode": "latest_poster"
+  },
+  {
+    "key": "keyoapp-writerscans",
+    "name": "Writer Scans",
+    "url": "https://writerscans.com",
+    "id": 561830040001881975,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/writerscans.com.ico",
+    "variant": "classic",
+    "popular_mode": "trending3"
+  }
+]

@@ -18,6 +18,30 @@
       "plugin": "hentaihand_multisrc",
       "sites": "sources/multisrc/hentaihand/sites.json",
       "verified": "sources/multisrc/hentaihand/verified.json"
+    },
+    {
+      "theme": "mangathemesia",
+      "plugin": "mangathemesia_multisrc",
+      "sites": "sources/multisrc/mangathemesia/sites.json",
+      "verified": "sources/multisrc/mangathemesia/verified.json"
+    },
+    {
+      "theme": "mangacatalog",
+      "plugin": "mangacatalog_multisrc",
+      "sites": "sources/multisrc/mangacatalog/sites.json",
+      "verified": "sources/multisrc/mangacatalog/verified.json"
+    },
+    {
+      "theme": "keyoapp",
+      "plugin": "keyoapp_multisrc",
+      "sites": "sources/multisrc/keyoapp/sites.json",
+      "verified": "sources/multisrc/keyoapp/verified.json"
+    },
+    {
+      "theme": "zeistmanga",
+      "plugin": "zeistmanga_multisrc",
+      "sites": "sources/multisrc/zeistmanga/sites.json",
+      "verified": "sources/multisrc/zeistmanga/verified.json"
     }
   ]
 }

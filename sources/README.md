@@ -12,6 +12,8 @@ into the `aarch64-linux-android` plugins shipped in [`../android/extensions/plug
 
 ```
 sources/
+├── multisrc/           # one crate per shared Keiyoushi theme (Madara, MangaThemesia, …)
+│   └── <theme>/        # Cargo.toml, sites.json, verified.json, src/
 ├── ported/
 │   ├── atsumaru/       # Atsumaru  (id 2327480808438768017)
 │   ├── comicklive/     # Comick (Unoriginal, comick.live) (id 4972933717624256217)
@@ -26,6 +28,18 @@ sources/
 ├── template/           # skeleton crate for a new port
 └── README.md           # this file
 ```
+
+### Multisrc themes
+
+`sources/multisrc/<theme>/` implements one Keiyoushi scraper theme in Rust. The theme's
+site/source table lives in `sites.json` (embedded with `include_str!`), and
+`verified.json` lists the keys that were verified live — only those are published in the
+catalog. All verified sites of a theme share **one** prebuilt plugin binary: the catalog
+entries point at the same `.so` and the plugin selects its site from the installed file
+name at runtime (env `TANOSHI_MULTISRC_SITE`, `/proc/self/cmdline` `--plugin <path>`,
+`dladdr`, `/proc/self/maps`). This is how hundreds of Keiyoushi sources are covered
+without one port per site. Install them in batches: every installed extension runs its
+own worker process inside the server.
 
 Every crate is a `cdylib` that uses the shared crates from the
 [`luigi311/tanoshi-extensions`](https://github.com/luigi311/tanoshi-extensions)

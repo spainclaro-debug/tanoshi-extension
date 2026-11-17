@@ -1,0 +1,650 @@
+[
+ {
+  "key": "mangathemesia-akazascans",
+  "name": "Akaza Scans",
+  "url": "https://akazascans.org",
+  "id": 8513894820944573933,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-amangaplanet",
+  "name": "Amanga Planet",
+  "url": "https://www.amangaplanet.com.tr",
+  "id": 5164979204020878495,
+  "lang": "tr",
+  "nsfw": false,
+  "date_format": "%d/%m/%Y"
+ },
+ {
+  "key": "mangathemesia-arabtaku",
+  "name": "Arabtaku",
+  "url": "https://arabtaku.com",
+  "id": 9180348693074415031,
+  "lang": "ar",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-arenascans",
+  "name": "Arena Scans",
+  "url": "https://arenascan.com",
+  "id": 8861274191478178487,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-athreascans",
+  "name": "Athrea Scans",
+  "url": "https://athreascans.com",
+  "id": 427734044452073936,
+  "lang": "en",
+  "nsfw": false,
+  "chapter_sel": "#chapterlist li"
+ },
+ {
+  "key": "mangathemesia-bymichiscan",
+  "name": "Bymichi Scan",
+  "url": "https://bymichiby.com",
+  "id": 4436777272781358384,
+  "lang": "es",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-cerberusseries",
+  "name": "Cerberus Series",
+  "url": "https://legionscans.com/wp",
+  "id": 1814471239661920836,
+  "lang": "es",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-dojingnet",
+  "name": "Dojing.net",
+  "url": "https://dojing.net",
+  "id": 8062443260299418342,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-doujin69",
+  "name": "Doujin69",
+  "url": "https://doujin69.com",
+  "id": 216615711286665281,
+  "lang": "th",
+  "nsfw": true,
+  "dir": "/doujin"
+ },
+ {
+  "key": "mangathemesia-doujinmoon",
+  "name": "Doujin Moon",
+  "url": "https://doujinmoon.com",
+  "id": 1953904877869380978,
+  "lang": "th",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-ecchidoujin",
+  "name": "Ecchi-Doujin",
+  "url": "https://ecchi-doujin.com",
+  "id": 7257262636858275074,
+  "lang": "th",
+  "nsfw": true,
+  "dir": "/doujin"
+ },
+ {
+  "key": "mangathemesia-erosscans",
+  "name": "Scythe Scans",
+  "url": "https://scythescans.com",
+  "id": 1124131000360667434,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-evascans",
+  "name": "Eva Scans",
+  "url": "https://evascans.net",
+  "id": 1911019612901009263,
+  "lang": "en",
+  "nsfw": false,
+  "dir": "/series"
+ },
+ {
+  "key": "mangathemesia-finmanga",
+  "name": "Fin Manga",
+  "url": "https://www.fin-manga.com",
+  "id": 7656859857051979814,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-flashmanga",
+  "name": "Flash-Manga",
+  "url": "https://www.flash-manga.net",
+  "id": 3953857548169222543,
+  "lang": "th",
+  "nsfw": false,
+  "chapters": "reverse"
+ },
+ {
+  "key": "mangathemesia-goddoujin",
+  "name": "God-Doujin",
+  "url": "https://god-doujin.com",
+  "id": 3638625079908519060,
+  "lang": "th",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-godhman",
+  "name": "GodhMan",
+  "url": "https://www.godhman.net",
+  "id": 9132357937461154424,
+  "lang": "th",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-gomanga",
+  "name": "Go Manga",
+  "url": "https://www.go-manga.com",
+  "id": 748167751985747523,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-goonscans",
+  "name": "Goon Scans",
+  "url": "https://goonscans.org",
+  "id": 2899371341317171497,
+  "lang": "ar",
+  "nsfw": true,
+  "listing": "goonscans",
+  "search_sel": ".cover-wrapper",
+  "detail_sel": ".webtoon-container",
+  "title_sel": ".webtoon-title",
+  "thumb_sel": ".webtoon-cover",
+  "desc_sel": ".description-content",
+  "genre_sel": ".genre-tags a",
+  "status_sel": ".cover-status-badge",
+  "chapter_sel": "ul.chapter-list li",
+  "chapter_name_sel": ".chapter-number",
+  "chapter_date_sel": ".chapter-date",
+  "date_format": "%Y.%d.%m"
+ },
+ {
+  "key": "mangathemesia-hentaidesi",
+  "name": "Hentai Desi",
+  "url": "https://hentaidesi.com",
+  "id": 1428377199095994277,
+  "lang": "en",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-inumanga",
+  "name": "Inu Manga",
+  "url": "https://www.inu-manga.net",
+  "id": 8311212024513454469,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-izanamiscans",
+  "name": "Izanami Scans",
+  "url": "https://izanamiscans.my.id",
+  "id": 831567442922111170,
+  "lang": "id",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-kanzenin",
+  "name": "Kanzenin",
+  "url": "https://kanzenin.info",
+  "id": 8834320474567176246,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-kingofshojo",
+  "name": "King of Shojo",
+  "url": "https://kingofshojo.com",
+  "id": 9153097368891994905,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-kombatch",
+  "name": "Kombatch",
+  "url": "https://kombatch.cc",
+  "id": 911623545095065045,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-komikdewasa",
+  "name": "Komik Dewasak",
+  "url": "https://komikdewasa.mom",
+  "id": 8753851309776247979,
+  "lang": "id",
+  "nsfw": true,
+  "dir": "/komik",
+  "date_format": "%d %B %Y"
+ },
+ {
+  "key": "mangathemesia-komikindo",
+  "name": "Komikindo",
+  "url": "https://komikindo.click",
+  "id": 1210328269637877420,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-komikmu",
+  "name": "Komikmu",
+  "url": "https://komikmu.top",
+  "id": 3003360347791538503,
+  "lang": "id",
+  "nsfw": true,
+  "dir": "/komik",
+  "date_format": "%d/%m/%Y"
+ },
+ {
+  "key": "mangathemesia-komiktap",
+  "name": "Komiktap",
+  "url": "https://komiktap.info",
+  "id": 8162933120097302217,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-koreliscans",
+  "name": "Koreli Scans",
+  "url": "https://www.nabicix.com",
+  "id": 1475942648540931708,
+  "lang": "tr",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-kumapoi",
+  "name": "KumaPoi",
+  "url": "https://kumapoi.info",
+  "id": 5075847076783200426,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-lagoonscans",
+  "name": "Lagoon Scans",
+  "url": "https://lagoonscans.com",
+  "id": 7925933833035450162,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-lavascans",
+  "name": "Lava Scans",
+  "url": "https://lavascans.com",
+  "id": 3209001028102012989,
+  "lang": "ar",
+  "nsfw": false,
+  "search_sel": ".listupd .manga-card-v",
+  "detail_sel": "div.lh-container",
+  "title_sel": ".lh-title",
+  "desc_sel": "#manga-story",
+  "genre_sel": ".lh-genres a",
+  "status_sel": ".status-badge-lux",
+  "thumb_sel": ".lh-poster img",
+  "chapter_sel": "#chapters-list-container .ch-item",
+  "chapter_name_sel": ".ch-num",
+  "chapter_date_sel": ".ch-date",
+  "date_format": "%Y/%m/%d"
+ },
+ {
+  "key": "mangathemesia-lelmanga",
+  "name": "Lelmanga",
+  "url": "https://www.lelmanga.com",
+  "id": 8647761747185981431,
+  "lang": "fr",
+  "nsfw": false,
+  "alt_prefix": "Nom alternatif: "
+ },
+ {
+  "key": "mangathemesia-lianscans",
+  "name": "LianScans",
+  "url": "https://www.lianscans.com",
+  "id": 8863831356505058723,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-madarascans",
+  "name": "Madara Scans",
+  "url": "https://madarascans.net",
+  "id": 9025563662441338944,
+  "lang": "en",
+  "nsfw": false,
+  "dir": "/series"
+ },
+ {
+  "key": "mangathemesia-mangacan",
+  "name": "Manga Can",
+  "url": "https://mangacanblog.com",
+  "id": 4396938423130345004,
+  "lang": "id",
+  "nsfw": false,
+  "dir": "",
+  "listing": "mangacan",
+  "genre_sel": ".seriestugenre a[href*=genre]",
+  "page_sel": "center img.ts-main-image"
+ },
+ {
+  "key": "mangathemesia-mangakimi",
+  "name": "MangaKimi",
+  "url": "https://www.mangakimi.com",
+  "id": 358347131669055728,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-manganeko",
+  "name": "Manga-Neko",
+  "url": "https://manga-neko.com",
+  "id": 5623426415743614214,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-mangastep",
+  "name": "Mangastep",
+  "url": "https://mangastep.com",
+  "id": 4667424178290106010,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-mangasusu",
+  "name": "Mangasusu",
+  "url": "https://mangasusuku.com",
+  "id": 8157748444640827548,
+  "lang": "id",
+  "nsfw": true,
+  "dir": "/komik"
+ },
+ {
+  "key": "mangathemesia-mangatrend",
+  "name": "Manga Trend",
+  "url": "https://mangatrend.org",
+  "id": 1983630122600815139,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-manhwadesu",
+  "name": "ManhwaDesu",
+  "url": "https://manhwadesu.rest",
+  "id": 8258394658125354785,
+  "lang": "id",
+  "nsfw": true,
+  "dir": "/komik"
+ },
+ {
+  "key": "mangathemesia-manhwalistid",
+  "name": "Manhwa List",
+  "url": "https://m1.manhwalist.my.id",
+  "id": 3111049819536223391,
+  "lang": "id",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-miauscan",
+  "name": "Miau Scan",
+  "url": "https://leer.lectovela.com",
+  "id": 2886862669347225416,
+  "lang": "es",
+  "nsfw": false,
+  "genre_sel": ".mgen a",
+  "status_sel": ".lm4-poster-status",
+  "thumb_sel": "img.lm4-poster-image",
+  "desc_sel": ".lm4-summary-full",
+  "chapter_name_sel": ".lm4-chapter-name",
+  "chapter_date_sel": ".lm4-chapter-date",
+  "img_attrs": [
+   "data-lm-orig-src"
+  ],
+  "page_hosts": [
+   [
+    "miauscans.com",
+    "leer.lectovela.com"
+   ]
+  ],
+  "strip_paren_prefix": true,
+  "date_format": "%d/%m/%Y"
+ },
+ {
+  "key": "mangathemesia-miauscan-pt-br",
+  "name": "Miau Scan",
+  "url": "https://leer.lectovela.com",
+  "id": 6705370418823255358,
+  "lang": "pt-BR",
+  "nsfw": false,
+  "genre_sel": ".mgen a",
+  "status_sel": ".lm4-poster-status",
+  "thumb_sel": "img.lm4-poster-image",
+  "desc_sel": ".lm4-summary-full",
+  "chapter_name_sel": ".lm4-chapter-name",
+  "chapter_date_sel": ".lm4-chapter-date",
+  "img_attrs": [
+   "data-lm-orig-src"
+  ],
+  "page_hosts": [
+   [
+    "miauscans.com",
+    "leer.lectovela.com"
+   ]
+  ],
+  "strip_paren_prefix": true,
+  "date_format": "%d/%m/%Y",
+  "extra_query": [
+   [
+    "genre[]",
+    "307"
+   ]
+  ]
+ },
+ {
+  "key": "mangathemesia-mihentai",
+  "name": "Mihentai",
+  "url": "https://mihentai.net",
+  "id": 3141331376595743728,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-moondaisyscans",
+  "name": "Moon Daisy Scans",
+  "url": "https://moondaisyscans.pro",
+  "id": 2732049206654972364,
+  "lang": "tr",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-nekoscans",
+  "name": "NekoScans",
+  "url": "https://nekoproject.org",
+  "id": 8396340084333456288,
+  "lang": "es",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-ngomik",
+  "name": "Ngomik (unoriginal)",
+  "url": "https://02.ngomik.cc",
+  "id": 5360960267485387879,
+  "lang": "id",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-ntrmanga",
+  "name": "NTR-Manga",
+  "url": "https://www.ntr-manga.net",
+  "id": 2123874844305574539,
+  "lang": "th",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-one08read",
+  "name": "108Read",
+  "url": "https://www.108read.com",
+  "id": 64300093736011954,
+  "lang": "th",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-rakuentranslations",
+  "name": "Rakuen Translations",
+  "url": "https://rakuentranslations.com",
+  "id": 1527666187989988991,
+  "lang": "es",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-reapertrans",
+  "name": "ReaperTrans",
+  "url": "https://reapertrans.com",
+  "id": 9050053825457509475,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-rokaricomics",
+  "name": "RokariComics",
+  "url": "https://rokaricomics.com",
+  "id": 830150807344972132,
+  "lang": "en",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-sasangeyou",
+  "name": "Sasangeyou",
+  "url": "https://sasangeyou.net",
+  "id": 1153502662292268302,
+  "lang": "id",
+  "nsfw": true,
+  "date_format": "%m/%d/%Y"
+ },
+ {
+  "key": "mangathemesia-sektedoujin",
+  "name": "Sekte Doujin",
+  "url": "https://sektedoujin.cc",
+  "id": 7949854430526190429,
+  "lang": "id",
+  "nsfw": true
+ },
+ {
+  "key": "mangathemesia-shijiescans",
+  "name": "Shijie Scans",
+  "url": "https://shijiescans.com",
+  "id": 876756264275379458,
+  "lang": "tr",
+  "nsfw": false,
+  "dir": "/seri"
+ },
+ {
+  "key": "mangathemesia-singmanga",
+  "name": "SingManga",
+  "url": "https://www.sing-manga.com",
+  "id": 834994810873638550,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-slowmanga",
+  "name": "Slow Manga",
+  "url": "https://www.slowmanga.net",
+  "id": 3894617311216312574,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-sodsaime",
+  "name": "สดใสเมะ",
+  "url": "https://www.xn--l3c0azab5a2gta.com",
+  "id": 8174267898467838103,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-summertoon",
+  "name": "SummerToon",
+  "url": "https://summertoons.org",
+  "id": 1346985078461508977,
+  "lang": "tr",
+  "nsfw": false,
+  "status_sel": ".tsinfo .imptdt > i"
+ },
+ {
+  "key": "mangathemesia-tanukimanga",
+  "name": "Tanuki-Manga",
+  "url": "https://www.tanuki-manga.net",
+  "id": 422195356897516502,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-thaimanga",
+  "name": "ThaiManga",
+  "url": "https://www.thaimanga.net",
+  "id": 6145049378633382077,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-thunderscans",
+  "name": "Thunder Scans",
+  "url": "https://en-thunderscans.com",
+  "id": 2848420679472350044,
+  "lang": "en",
+  "nsfw": false,
+  "dir": "/comics"
+ },
+ {
+  "key": "mangathemesia-toomtammanga",
+  "name": "ToomTam-Manga",
+  "url": "https://toomtam-manga.com",
+  "id": 5640783863041818405,
+  "lang": "th",
+  "nsfw": false
+ },
+ {
+  "key": "mangathemesia-toonhunter",
+  "name": "ToonHunter",
+  "url": "https://toonhunter.com",
+  "id": 5501367022610888708,
+  "lang": "th",
+  "nsfw": true,
+  "date_format": "%d %B %Y"
+ },
+ {
+  "key": "mangathemesia-tsundokutraducoes",
+  "name": "Tsundoku Traduções",
+  "url": "https://tsundoku.com.br",
+  "id": 2091088265283814173,
+  "lang": "pt-BR",
+  "nsfw": false,
+  "alt_prefix": "Nome alternativo: "
+ },
+ {
+  "key": "mangathemesia-uchuujinprojects",
+  "name": "Uchuujin Projects",
+  "url": "https://uchuujinmangas.com",
+  "id": 3953107753690791431,
+  "lang": "es",
+  "nsfw": false,
+  "date_format": "%d de %B de %Y"
+ },
+ {
+  "key": "mangathemesia-undertranslations",
+  "name": "UnderTranslations",
+  "url": "https://undertranslations.com",
+  "id": 6130972683394103021,
+  "lang": "es",
+  "nsfw": false
+ }
+]

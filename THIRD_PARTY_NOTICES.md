@@ -23,6 +23,12 @@ Ported sources, with their upstream modules:
 | `mangaread` | `src/en/mangareadorg` (Madara theme) |
 | `mangasushi` | `src/en/mangasushi` (Madara theme) |
 
+The multisrc crates under `sources/multisrc/` are ports of the corresponding
+Keiyoushi shared themes (`lib-multisrc/madara`, `mangathemesia`, `galleryadults`,
+`hentaihand`, `zeistmanga`, `mangacatalog`, `keyoapp`); each crate's module header
+names the upstream theme. The `sites.json` tables were generated from the
+Keiyoushi extension index and the per-site Kotlin modules.
+
 The ports are re-implementations in Rust: no Kotlin code is vendored and the
 plugins do not include the upstream APK/JAR artifacts.
 

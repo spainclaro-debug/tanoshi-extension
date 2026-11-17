@@ -1,0 +1,810 @@
+[
+  {
+    "key": "mangacatalog-readattackontitanshingekinokyojinmanga",
+    "name": "Read Attack on Titan Shingeki no Kyojin Manga",
+    "url": "https://ww12.readsnk.com",
+    "id": 8930801332831394412,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww12.readsnk.com.ico",
+    "variant": "aot",
+    "entries": [
+      {
+        "name": "Shingeki No Kyojin",
+        "path": "/manga/shingeki-no-kyojin/"
+      },
+      {
+        "name": "Colored",
+        "path": "/manga/shingeki-no-kyojin-colored/"
+      },
+      {
+        "name": "Before the Fall",
+        "path": "/manga/shingeki-no-kyojin-before-the-fall/"
+      },
+      {
+        "name": "Lost Girls",
+        "path": "/manga/shingeki-no-kyojin-lost-girls/"
+      },
+      {
+        "name": "No Regrets",
+        "path": "/manga/attack-on-titan-no-regrets/"
+      },
+      {
+        "name": "Junior High",
+        "path": "/manga/attack-on-titan-junior-high/"
+      },
+      {
+        "name": "Guidebook",
+        "path": "/manga/attack-on-titan-guidebook-inside-outside/"
+      },
+      {
+        "name": "Harsh Mistress",
+        "path": "/manga/attack-on-titan-harsh-mistress-of-the-city/"
+      },
+      {
+        "name": "Anthology",
+        "path": "/manga/attack-on-titan-anthology/"
+      },
+      {
+        "name": "Art Book",
+        "path": "/manga/attack-on-titan-exclusive-art-book/"
+      },
+      {
+        "name": "Spoof",
+        "path": "/manga/spoof-on-titan/"
+      },
+      {
+        "name": "No Regrets Colored",
+        "path": "/manga/attack-on-titan-no-regrets-colored/"
+      },
+      {
+        "name": "BTF Light Novel",
+        "path": "/manga/attack-on-titan-before-the-fall-light-novel/"
+      },
+      {
+        "name": "Best of SNK",
+        "path": "/manga/the-best-of-attack-on-titan-in-color/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readberserkmanga",
+    "name": "Read Berserk Manga",
+    "url": "https://readberserk.com",
+    "id": 4917014756556380981,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/readberserk.com.ico",
+    "variant": "berserk",
+    "entries": [
+      {
+        "name": "Berserk",
+        "path": "/manga/berserk/"
+      },
+      {
+        "name": "Guidebook",
+        "path": "/manga/berserk-official-guidebook/"
+      },
+      {
+        "name": "Colored",
+        "path": "/manga/berserk-colored/"
+      },
+      {
+        "name": "Duranki",
+        "path": "/manga/duranki/"
+      },
+      {
+        "name": "Gigantomakhia",
+        "path": "/manga/gigantomakhia/"
+      },
+      {
+        "name": "Futatabi",
+        "path": "/manga/futatabi/"
+      },
+      {
+        "name": "Berserk Spoilers & RAW",
+        "path": "/manga/berserk-spoilers-raw/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readbleachmangaonline",
+    "name": "Read Bleach Manga Online",
+    "url": "https://ww7.readbleachmanga.com",
+    "id": 8536242988682411945,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww7.readbleachmanga.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Bleach",
+        "path": "/manga/bleach/"
+      },
+      {
+        "name": "Bleach Digital Colored Comics",
+        "path": "/manga/bleach-digital-colored-comics/"
+      },
+      {
+        "name": "Bleach: The Unforgivens",
+        "path": "/manga/bleach-the-unforgivens/"
+      },
+      {
+        "name": "Bleach: Can't Fear Your Own World",
+        "path": "/manga/bleach-cant-fear-your-own-world/"
+      },
+      {
+        "name": "Bleach Unmasked Short Stories",
+        "path": "/manga/bleach-unmasked-short-stories/"
+      },
+      {
+        "name": "Bleach One Shot: Burn the Witch",
+        "path": "/manga/bleach-one-shot-burn-the-witch/"
+      },
+      {
+        "name": "Zombie Powder",
+        "path": "/manga/zombie-powder/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readbluelockmangaonline",
+    "name": "Read Blue Lock Manga Online",
+    "url": "https://ww3.bluelockread.com",
+    "id": 808579735886687031,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww3.bluelockread.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Blue Lock",
+        "path": "/manga/blue-lock/"
+      },
+      {
+        "name": "Blue Lock: Episode Nagi",
+        "path": "/manga/blue-lock-episode-nagi/"
+      },
+      {
+        "name": "Another Blue Lock: Episode Omotesando",
+        "path": "/manga/another-blue-lock-episode-omotesando/"
+      },
+      {
+        "name": "Another Blue Lock: Episode Harajuku",
+        "path": "/manga/another-blue-lock-episode-harajuku/"
+      },
+      {
+        "name": "Blue Lock Full Color Selection",
+        "path": "/manga/blue-lock-full-color-selection/"
+      },
+      {
+        "name": "Blue Lock Character Book EGOIST BIBLE",
+        "path": "/manga/blue-lock-character-book-egoist-bible/"
+      },
+      {
+        "name": "Blue Lock Light Novel",
+        "path": "/manga/blue-lock-light-novel/"
+      },
+      {
+        "name": "Super Ball Girls",
+        "path": "/manga/super-ball-girls/"
+      },
+      {
+        "name": "Jagaaaaaan",
+        "path": "/manga/jagaaaaaan/"
+      },
+      {
+        "name": "Grashros",
+        "path": "/manga/grashros/"
+      },
+      {
+        "name": "We Did It",
+        "path": "/manga/bokutachi-ga-yarimashita/"
+      },
+      {
+        "name": "Billion Dogs",
+        "path": "/manga/billion-dogs/"
+      },
+      {
+        "name": "Like God Says",
+        "path": "/manga/kamisama-no-iutoori/"
+      },
+      {
+        "name": "As The Gods Will - The Second Series",
+        "path": "/manga/kamisama-no-iutoori-ii/"
+      },
+      {
+        "name": "As The Gods Will Zero",
+        "path": "/manga/kamisama-no-iutoori-0/"
+      },
+      {
+        "name": "Dolly Kill Kill",
+        "path": "/manga/dolly-kill-kill/"
+      },
+      {
+        "name": "Tesla Note",
+        "path": "/manga/tesla-note/"
+      },
+      {
+        "name": "Invisible Joe",
+        "path": "/manga/invisible-joe/"
+      },
+      {
+        "name": "Embers",
+        "path": "/manga/embers/"
+      },
+      {
+        "name": "Aoku Somero",
+        "path": "/manga/aoku-somero/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readchainsawmanmangaonline",
+    "name": "Read Chainsaw Man Manga Online",
+    "url": "https://ww6.readchainsawman.com",
+    "id": 6207801235158968822,
+    "lang": "en",
+    "nsfw": true,
+    "icon": "https://icons.duckduckgo.com/ip3/ww6.readchainsawman.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Chainsaw Man",
+        "path": "/manga/chainsaw-man/"
+      },
+      {
+        "name": "17-21",
+        "path": "/manga/17-21-fujimoto-tatsuki-tanpenshuu/"
+      },
+      {
+        "name": "Fire Punch",
+        "path": "/manga/fire-punch/"
+      },
+      {
+        "name": "Nayuta",
+        "path": "/manga/yogen-no-nayuta/"
+      },
+      {
+        "name": "Look Back",
+        "path": "/manga/look-back/"
+      },
+      {
+        "name": "Light Novel",
+        "path": "/manga/chainsaw-man-buddy-stories/"
+      },
+      {
+        "name": "Colored",
+        "path": "/manga/chainsaw-man-colored/"
+      },
+      {
+        "name": "Listen to Song",
+        "path": "/manga/futsuu-ni-kiite-kure/"
+      },
+      {
+        "name": "Goodbye, Eri",
+        "path": "/manga/sayonara-eri-goodbye-eri/"
+      },
+      {
+        "name": "22-26",
+        "path": "/manga/22-26-fujimoto-tatsuki-tanpenshuu/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readfairytailedenszeromangaonline",
+    "name": "Read Fairy Tail & Edens Zero Manga Online",
+    "url": "https://ww9.readfairytail.com",
+    "id": 1330793582354406642,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww9.readfairytail.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Eden's Zero",
+        "path": "/manga/edens-zero/"
+      },
+      {
+        "name": "Fairy Tail",
+        "path": "/manga/fairy-tail/"
+      },
+      {
+        "name": "FT Zero",
+        "path": "/manga/fairy-tail-zero/"
+      },
+      {
+        "name": "FT City Hero",
+        "path": "/manga/fairy-tail-city-hero/"
+      },
+      {
+        "name": "Hero’s",
+        "path": "/manga/heros/"
+      },
+      {
+        "name": "FT Happy Adv",
+        "path": "/manga/fairy-tail-happys-grand-adventure/"
+      },
+      {
+        "name": "FT 100 Year",
+        "path": "/manga/fairy-tail-100-years-quest/"
+      },
+      {
+        "name": "FT Ice Trail",
+        "path": "/manga/fairy-tail-ice-trail/"
+      },
+      {
+        "name": "FT x Taizai",
+        "path": "/manga/fairy-tail-x-nanatsu-no-taizai-christmas-special/"
+      },
+      {
+        "name": "Parasyte x FT",
+        "path": "/manga/parasyte-x-fairy-tail/"
+      },
+      {
+        "name": "Gaiden 1",
+        "path": "/manga/fairy-tail-gaiden-raigo-issen/"
+      },
+      {
+        "name": "FT x Rave",
+        "path": "/manga/fairy-tail-x-rave/"
+      },
+      {
+        "name": "Monster Hunter",
+        "path": "/manga/monster-hunter-orage/"
+      },
+      {
+        "name": "Rave Master",
+        "path": "/manga/rave-master/"
+      },
+      {
+        "name": "Dead Rock",
+        "path": "/manga/dead-rock/"
+      },
+      {
+        "name": "Fairy Girls",
+        "path": "/manga/fairy-girls/"
+      },
+      {
+        "name": "Gaiden 2",
+        "path": "/manga/fairy-tail-gaiden-kengami-no-souryuu/"
+      },
+      {
+        "name": "Gaiden 3",
+        "path": "/manga/fairy-tail-gaiden-road-knight/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readichithewitchmangaonline",
+    "name": "Read Ichi the Witch Manga Online",
+    "url": "https://ww2.readichithewitch.com",
+    "id": 3152007240050380198,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww2.readichithewitch.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Ichi the Witch",
+        "path": "/manga/ichi-the-witch/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readjujutsukaisenmangaonline",
+    "name": "Read Jujutsu Kaisen Manga Online",
+    "url": "https://ww6.readjujutsukaisen.com",
+    "id": 808850989053853006,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww6.readjujutsukaisen.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Jujutsu Kaisen",
+        "path": "/manga/jujutsu-kaisen/"
+      },
+      {
+        "name": "Jujutsu Kaisen 0",
+        "path": "/manga/jujutsu-kaisen-0/"
+      },
+      {
+        "name": "JJK Colored",
+        "path": "/manga/jujutsu-kaisen-colored/"
+      },
+      {
+        "name": "Fan Scan",
+        "path": "/manga/jujutsu-kaisen-fan-scan/"
+      },
+      {
+        "name": "JJK Light Novel",
+        "path": "/manga/jujutsu-kaisen-first-light-novel/"
+      },
+      {
+        "name": "2nd Light Novel",
+        "path": "/manga/jujutsu-kaisen-second-light-novel/"
+      },
+      {
+        "name": "No.9",
+        "path": "/manga/no-9/"
+      },
+      {
+        "name": "Fanbook",
+        "path": "/manga/jujutsu-kaisen-official-fanbook/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readkagurabachimangaonline",
+    "name": "Read Kagurabachi Manga Online",
+    "url": "https://ww2.readkagurabachimanga.com",
+    "id": 5627354626280682563,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww2.readkagurabachimanga.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Kagurabachi",
+        "path": "/manga/kagurabachi/"
+      },
+      {
+        "name": "Enten",
+        "path": "/manga/enten/"
+      },
+      {
+        "name": "Chain",
+        "path": "/manga/chain/"
+      },
+      {
+        "name": "Roku no Meiyaku",
+        "path": "/manga/roks-death-testament/"
+      },
+      {
+        "name": "Madogiwa de Amu",
+        "path": "/manga/knitting-by-the-window/"
+      },
+      {
+        "name": "Farewell! Cherry Boy!",
+        "path": "/manga/farewell-cherry-boy/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readkingdommangaonline",
+    "name": "Read Kingdom Manga Online",
+    "url": "https://ww6.readkingdom.com",
+    "id": 7952360835727640966,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww6.readkingdom.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Kingdom",
+        "path": "/manga/kingdom/"
+      },
+      {
+        "name": "Li Mu",
+        "path": "/manga/li-mu/"
+      },
+      {
+        "name": "Meng Wu & Chu Zi",
+        "path": "/manga/meng-wu-and-chu-zi-one-shot/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readnanatsunotaizai7deadlysinsmangaonline",
+    "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
+    "url": "https://ww8.read7deadlysins.com",
+    "id": 3945031984510180731,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww8.read7deadlysins.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Four Horsemen of the Apocalypse",
+        "path": "/manga/four-horsemen-of-the-apocalypse/"
+      },
+      {
+        "name": "7DS: School",
+        "path": "/manga/mayoe-nanatsu-no-taizai-gakuen/"
+      },
+      {
+        "name": "7DS:7 Days",
+        "path": "/manga/nanatsu-no-taizai-seven-days/"
+      },
+      {
+        "name": "7DS:Vampires",
+        "path": "/manga/nanatsu-no-taizai-vampires-of-edinburgh/"
+      },
+      {
+        "name": "Queen of Altar",
+        "path": "/manga/the-queen-of-the-altar/"
+      },
+      {
+        "name": "7DS: 7 Colors",
+        "path": "/manga/nanatsu-no-taizai-nanairo-no-tsuioku/"
+      },
+      {
+        "name": "7DS x FT",
+        "path": "/manga/fairy-tail-x-nanatsu-no-taizai-christmas-special/"
+      },
+      {
+        "name": "Kongou Banchou",
+        "path": "/manga/kongou-banchou/"
+      },
+      {
+        "name": "7DS:7 Scars",
+        "path": "/manga/nanatsu-no-taizai-the-seven-scars-which-they-left-behind/"
+      },
+      {
+        "name": "7 Deadly Sins",
+        "path": "/manga/nanatsu-no-taizai/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readonepiecemangaonline",
+    "name": "Read One Piece Manga Online",
+    "url": "https://ww13.readonepiece.com",
+    "id": 1061544757733451419,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww13.readonepiece.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "One Piece",
+        "path": "/manga/one-piece/"
+      },
+      {
+        "name": "Colored",
+        "path": "/manga/one-piece-digital-colored-comics/"
+      },
+      {
+        "name": "Soma x Sanji",
+        "path": "/manga/shokugeki-no-sanji-one-shot/"
+      },
+      {
+        "name": "OP x Toriko",
+        "path": "/manga/one-piece-x-toriko/"
+      },
+      {
+        "name": "Party",
+        "path": "/manga/one-piece-party/"
+      },
+      {
+        "name": "DB x OP",
+        "path": "/manga/dragon-ball-x-one-piece/"
+      },
+      {
+        "name": "Wanted!",
+        "path": "/manga/wanted-one-piece/"
+      },
+      {
+        "name": "Ace's Story",
+        "path": "/manga/one-piece-ace-s-story/"
+      },
+      {
+        "name": "Omake",
+        "path": "/manga/one-piece-omake/"
+      },
+      {
+        "name": "Vivre Card",
+        "path": "/manga/vivre-card-databook/"
+      },
+      {
+        "name": "Pirate Recipes",
+        "path": "/manga/one-piece-pirate-recipes/"
+      },
+      {
+        "name": "Databook",
+        "path": "/manga/one-piece-databook/"
+      },
+      {
+        "name": "Ace's Story Manga",
+        "path": "/manga/one-piece-ace-story-manga/"
+      },
+      {
+        "name": "OP Academy",
+        "path": "/manga/one-piece-academy/"
+      },
+      {
+        "name": "MONSTERS",
+        "path": "/manga/monsters/"
+      },
+      {
+        "name": "Zoro Novel",
+        "path": "/manga/one-piece-novel-zoro/"
+      },
+      {
+        "name": "OP in Love",
+        "path": "/manga/one-piece-in-love/"
+      },
+      {
+        "name": "Heroines",
+        "path": "/manga/one-piece-novel-heroines/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readonepunchmanmangaonlinetwo",
+    "name": "Read One-Punch Man Manga Online",
+    "url": "https://ww7.readopm.com",
+    "id": 8254209929759906152,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww7.readopm.com.ico",
+    "variant": "opm",
+    "entries": [
+      {
+        "name": "One Punch Man",
+        "path": "/manga/one-punch-man/"
+      },
+      {
+        "name": "Official",
+        "path": "/manga/one-punch-man-official/"
+      },
+      {
+        "name": "Onepunch-Man (ONE)",
+        "path": "/manga/onepunch-man-one/"
+      },
+      {
+        "name": "Colored",
+        "path": "/manga/one-punch-man-colored/"
+      },
+      {
+        "name": "Mob Psycho 100",
+        "path": "/manga/mob-psycho-100/"
+      },
+      {
+        "name": "Reigen",
+        "path": "/manga/reigen/"
+      },
+      {
+        "name": "Versus (ONE)",
+        "path": "/manga/versus/"
+      },
+      {
+        "name": "Bug Ego",
+        "path": "/manga/bug-ego/"
+      },
+      {
+        "name": "Eyeshield 21",
+        "path": "/manga/eyeshield-21/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readsakamotodaysmangaonline",
+    "name": "Read Sakamoto Days Manga Online",
+    "url": "https://ww2.readsakadays.com",
+    "id": 9061586347786095111,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww2.readsakadays.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Sakamoto Days",
+        "path": "/manga/sakamoto-days/"
+      },
+      {
+        "name": "Sakamoto Days Digital Colored Comics",
+        "path": "/manga/sakamoto-days-digital-colored-comics/"
+      },
+      {
+        "name": "Sakamoto Days: Assassin's Method",
+        "path": "/manga/sakamoto-days-assassins-method/"
+      },
+      {
+        "name": "Sakamoto Days Official Fan Book",
+        "path": "/manga/sakamoto-days-official-fan-book/"
+      },
+      {
+        "name": "Sakamoto Holidays",
+        "path": "/manga/sakamoto-holidays/"
+      },
+      {
+        "name": "Garaku",
+        "path": "/manga/garaku/"
+      },
+      {
+        "name": "Locker Room",
+        "path": "/manga/locker-room/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readsololevelingmangamanhwaonline",
+    "name": "Read Solo Leveling Manga Manhwa Online",
+    "url": "https://ww4.readsololeveling.org",
+    "id": 1374366734159205648,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww4.readsololeveling.org.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Solo Leveling Manhwa",
+        "path": "/manga/solo-leveling/"
+      },
+      {
+        "name": "Solo Leveling Light Novel",
+        "path": "/manga/solo-leveling-light-novel/"
+      },
+      {
+        "name": "Solo Leveling : Ragnarok",
+        "path": "/manga/solo-leveling-ragnarok/"
+      },
+      {
+        "name": "SL: Ragnarok Novel",
+        "path": "/manga/solo-leveling-ragnarok-novel/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-readtokyoghoulretokyoghoulmangaonline",
+    "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+    "url": "https://ww12.tokyoghoulre.com",
+    "id": 6468833665354206027,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/ww12.tokyoghoulre.com.ico",
+    "variant": "default",
+    "entries": [
+      {
+        "name": "Tokyo Ghoul",
+        "path": "/manga/tokyo-ghoul/"
+      },
+      {
+        "name": "Tokyo Ghoul Jack",
+        "path": "/manga/tokyo-ghoul-jack/"
+      },
+      {
+        "name": "Tokyo Ghoul: re Colored",
+        "path": "/manga/tokyo-ghoulre-colored/"
+      },
+      {
+        "name": "Gorilla",
+        "path": "/manga/this-gorilla-will-die-in-1-day/"
+      },
+      {
+        "name": "Zakki",
+        "path": "/manga/tokyo-ghoul-zakki/"
+      },
+      {
+        "name": "Light Novel",
+        "path": "/manga/tokyo-ghoul-re-light-novels/"
+      },
+      {
+        "name": "Choujin X",
+        "path": "/manga/choujin-x/"
+      },
+      {
+        "name": "Tokyo Ghoul re",
+        "path": "/manga/tokyo-ghoulre/"
+      }
+    ]
+  },
+  {
+    "key": "mangacatalog-towerofgodmangaonline",
+    "name": "Tower Of God Manga Online",
+    "url": "https://w85.thetowerofgod.com",
+    "id": 7174981474350393136,
+    "lang": "en",
+    "nsfw": false,
+    "icon": "https://icons.duckduckgo.com/ip3/w85.thetowerofgod.com.ico",
+    "variant": "towerofgod",
+    "entries": [
+      {
+        "name": "Tower of God",
+        "path": ""
+      }
+    ]
+  }
+]

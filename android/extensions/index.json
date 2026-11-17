@@ -1811,6 +1811,1059 @@
       "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
       "size": 2075224,
       "ported": true
+    },
+    {
+      "name": "mangathemesia-akazascans",
+      "displayName": "Akaza Scans",
+      "description": "Akaza Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-amangaplanet",
+      "displayName": "Amanga Planet",
+      "description": "Amanga Planet \u2014 mangathemesia theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-arabtaku",
+      "displayName": "Arabtaku",
+      "description": "Arabtaku \u2014 mangathemesia theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-arenascans",
+      "displayName": "Arena Scans",
+      "description": "Arena Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-athreascans",
+      "displayName": "Athrea Scans",
+      "description": "Athrea Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-bymichiscan",
+      "displayName": "Bymichi Scan",
+      "description": "Bymichi Scan \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-cerberusseries",
+      "displayName": "Cerberus Series",
+      "description": "Cerberus Series \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-dojingnet",
+      "displayName": "Dojing.net",
+      "description": "Dojing.net \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-doujin69",
+      "displayName": "Doujin69",
+      "description": "Doujin69 \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-doujinmoon",
+      "displayName": "Doujin Moon",
+      "description": "Doujin Moon \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-ecchidoujin",
+      "displayName": "Ecchi-Doujin",
+      "description": "Ecchi-Doujin \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-erosscans",
+      "displayName": "Scythe Scans",
+      "description": "Scythe Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-evascans",
+      "displayName": "Eva Scans",
+      "description": "Eva Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-finmanga",
+      "displayName": "Fin Manga",
+      "description": "Fin Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-flashmanga",
+      "displayName": "Flash-Manga",
+      "description": "Flash-Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-goddoujin",
+      "displayName": "God-Doujin",
+      "description": "God-Doujin \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-godhman",
+      "displayName": "GodhMan",
+      "description": "GodhMan \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-gomanga",
+      "displayName": "Go Manga",
+      "description": "Go Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-goonscans",
+      "displayName": "Goon Scans",
+      "description": "Goon Scans \u2014 mangathemesia theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-hentaidesi",
+      "displayName": "Hentai Desi",
+      "description": "Hentai Desi \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-inumanga",
+      "displayName": "Inu Manga",
+      "description": "Inu Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-izanamiscans",
+      "displayName": "Izanami Scans",
+      "description": "Izanami Scans \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-kanzenin",
+      "displayName": "Kanzenin",
+      "description": "Kanzenin \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-kingofshojo",
+      "displayName": "King of Shojo",
+      "description": "King of Shojo \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-kombatch",
+      "displayName": "Kombatch",
+      "description": "Kombatch \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-komikdewasa",
+      "displayName": "Komik Dewasak",
+      "description": "Komik Dewasak \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-komikindo",
+      "displayName": "Komikindo",
+      "description": "Komikindo \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-komikmu",
+      "displayName": "Komikmu",
+      "description": "Komikmu \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-komiktap",
+      "displayName": "Komiktap",
+      "description": "Komiktap \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-koreliscans",
+      "displayName": "Koreli Scans",
+      "description": "Koreli Scans \u2014 mangathemesia theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-kumapoi",
+      "displayName": "KumaPoi",
+      "description": "KumaPoi \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-lagoonscans",
+      "displayName": "Lagoon Scans",
+      "description": "Lagoon Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-lavascans",
+      "displayName": "Lava Scans",
+      "description": "Lava Scans \u2014 mangathemesia theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-lelmanga",
+      "displayName": "Lelmanga",
+      "description": "Lelmanga \u2014 mangathemesia theme source (fr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-lianscans",
+      "displayName": "LianScans",
+      "description": "LianScans \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-madarascans",
+      "displayName": "Madara Scans",
+      "description": "Madara Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-mangacan",
+      "displayName": "Manga Can",
+      "description": "Manga Can \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-mangakimi",
+      "displayName": "MangaKimi",
+      "description": "MangaKimi \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-manganeko",
+      "displayName": "Manga-Neko",
+      "description": "Manga-Neko \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-mangastep",
+      "displayName": "Mangastep",
+      "description": "Mangastep \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-mangasusu",
+      "displayName": "Mangasusu",
+      "description": "Mangasusu \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-mangatrend",
+      "displayName": "Manga Trend",
+      "description": "Manga Trend \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-manhwadesu",
+      "displayName": "ManhwaDesu",
+      "description": "ManhwaDesu \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-manhwalistid",
+      "displayName": "Manhwa List",
+      "description": "Manhwa List \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-miauscan",
+      "displayName": "Miau Scan",
+      "description": "Miau Scan \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-miauscan-pt-br",
+      "displayName": "Miau Scan",
+      "description": "Miau Scan \u2014 mangathemesia theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-mihentai",
+      "displayName": "Mihentai",
+      "description": "Mihentai \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-moondaisyscans",
+      "displayName": "Moon Daisy Scans",
+      "description": "Moon Daisy Scans \u2014 mangathemesia theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-nekoscans",
+      "displayName": "NekoScans",
+      "description": "NekoScans \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-ngomik",
+      "displayName": "Ngomik (unoriginal)",
+      "description": "Ngomik (unoriginal) \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-ntrmanga",
+      "displayName": "NTR-Manga",
+      "description": "NTR-Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-one08read",
+      "displayName": "108Read",
+      "description": "108Read \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-rakuentranslations",
+      "displayName": "Rakuen Translations",
+      "description": "Rakuen Translations \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-reapertrans",
+      "displayName": "ReaperTrans",
+      "description": "ReaperTrans \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-rokaricomics",
+      "displayName": "RokariComics",
+      "description": "RokariComics \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-sasangeyou",
+      "displayName": "Sasangeyou",
+      "description": "Sasangeyou \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-sektedoujin",
+      "displayName": "Sekte Doujin",
+      "description": "Sekte Doujin \u2014 mangathemesia theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-shijiescans",
+      "displayName": "Shijie Scans",
+      "description": "Shijie Scans \u2014 mangathemesia theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-singmanga",
+      "displayName": "SingManga",
+      "description": "SingManga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-slowmanga",
+      "displayName": "Slow Manga",
+      "description": "Slow Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-sodsaime",
+      "displayName": "\u0e2a\u0e14\u0e43\u0e2a\u0e40\u0e21\u0e30",
+      "description": "\u0e2a\u0e14\u0e43\u0e2a\u0e40\u0e21\u0e30 \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-summertoon",
+      "displayName": "SummerToon",
+      "description": "SummerToon \u2014 mangathemesia theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-tanukimanga",
+      "displayName": "Tanuki-Manga",
+      "description": "Tanuki-Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-thaimanga",
+      "displayName": "ThaiManga",
+      "description": "ThaiManga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-thunderscans",
+      "displayName": "Thunder Scans",
+      "description": "Thunder Scans \u2014 mangathemesia theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-toomtammanga",
+      "displayName": "ToomTam-Manga",
+      "description": "ToomTam-Manga \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-toonhunter",
+      "displayName": "ToonHunter",
+      "description": "ToonHunter \u2014 mangathemesia theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-tsundokutraducoes",
+      "displayName": "Tsundoku Tradu\u00e7\u00f5es",
+      "description": "Tsundoku Tradu\u00e7\u00f5es \u2014 mangathemesia theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-uchuujinprojects",
+      "displayName": "Uchuujin Projects",
+      "description": "Uchuujin Projects \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangathemesia-undertranslations",
+      "displayName": "UnderTranslations",
+      "description": "UnderTranslations \u2014 mangathemesia theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangathemesia_multisrc.so",
+      "sha256": "44d3c21bf9d93c0f6c991457e5c9fe1af3401887776c7cdf14950a8539fddb07",
+      "size": 3110696,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readattackontitanshingekinokyojinmanga",
+      "displayName": "Read Attack on Titan Shingeki no Kyojin Manga",
+      "description": "Read Attack on Titan Shingeki no Kyojin Manga \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readberserkmanga",
+      "displayName": "Read Berserk Manga",
+      "description": "Read Berserk Manga \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readbleachmangaonline",
+      "displayName": "Read Bleach Manga Online",
+      "description": "Read Bleach Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readbluelockmangaonline",
+      "displayName": "Read Blue Lock Manga Online",
+      "description": "Read Blue Lock Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readchainsawmanmangaonline",
+      "displayName": "Read Chainsaw Man Manga Online",
+      "description": "Read Chainsaw Man Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readfairytailedenszeromangaonline",
+      "displayName": "Read Fairy Tail & Edens Zero Manga Online",
+      "description": "Read Fairy Tail & Edens Zero Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readichithewitchmangaonline",
+      "displayName": "Read Ichi the Witch Manga Online",
+      "description": "Read Ichi the Witch Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readjujutsukaisenmangaonline",
+      "displayName": "Read Jujutsu Kaisen Manga Online",
+      "description": "Read Jujutsu Kaisen Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readkagurabachimangaonline",
+      "displayName": "Read Kagurabachi Manga Online",
+      "description": "Read Kagurabachi Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readkingdommangaonline",
+      "displayName": "Read Kingdom Manga Online",
+      "description": "Read Kingdom Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readnanatsunotaizai7deadlysinsmangaonline",
+      "displayName": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
+      "description": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readonepiecemangaonline",
+      "displayName": "Read One Piece Manga Online",
+      "description": "Read One Piece Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readonepunchmanmangaonlinetwo",
+      "displayName": "Read One-Punch Man Manga Online",
+      "description": "Read One-Punch Man Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readsakamotodaysmangaonline",
+      "displayName": "Read Sakamoto Days Manga Online",
+      "description": "Read Sakamoto Days Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readsololevelingmangamanhwaonline",
+      "displayName": "Read Solo Leveling Manga Manhwa Online",
+      "description": "Read Solo Leveling Manga Manhwa Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-readtokyoghoulretokyoghoulmangaonline",
+      "displayName": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+      "description": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "mangacatalog-towerofgodmangaonline",
+      "displayName": "Tower Of God Manga Online",
+      "description": "Tower Of God Manga Online \u2014 mangacatalog theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangacatalog_multisrc.so",
+      "sha256": "e34d6e43f940ceb9713f89197df4611f22ff0eeda505adb0f8072ecd74443029",
+      "size": 2999880,
+      "ported": true
+    },
+    {
+      "name": "keyoapp-erisscans",
+      "displayName": "Eris Scans",
+      "description": "Eris Scans \u2014 keyoapp theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkeyoapp_multisrc.so",
+      "sha256": "f3b3320992545731c813bb6deadceb08deeb6f5e3bbcfbb8e245f9204b63e8ed",
+      "size": 3026256,
+      "ported": true
+    },
+    {
+      "name": "keyoapp-kewnscans",
+      "displayName": "Kewn Scans",
+      "description": "Kewn Scans \u2014 keyoapp theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkeyoapp_multisrc.so",
+      "sha256": "f3b3320992545731c813bb6deadceb08deeb6f5e3bbcfbb8e245f9204b63e8ed",
+      "size": 3026256,
+      "ported": true
+    },
+    {
+      "name": "keyoapp-nyanukafe",
+      "displayName": "Nyanu Kafe",
+      "description": "Nyanu Kafe \u2014 keyoapp theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkeyoapp_multisrc.so",
+      "sha256": "f3b3320992545731c813bb6deadceb08deeb6f5e3bbcfbb8e245f9204b63e8ed",
+      "size": 3026256,
+      "ported": true
+    },
+    {
+      "name": "keyoapp-suryascans",
+      "displayName": "Genz Toons",
+      "description": "Genz Toons \u2014 keyoapp theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkeyoapp_multisrc.so",
+      "sha256": "f3b3320992545731c813bb6deadceb08deeb6f5e3bbcfbb8e245f9204b63e8ed",
+      "size": 3026256,
+      "ported": true
+    },
+    {
+      "name": "keyoapp-timelesstoons",
+      "displayName": "TimelessToons",
+      "description": "TimelessToons \u2014 keyoapp theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkeyoapp_multisrc.so",
+      "sha256": "f3b3320992545731c813bb6deadceb08deeb6f5e3bbcfbb8e245f9204b63e8ed",
+      "size": 3026256,
+      "ported": true
+    },
+    {
+      "name": "keyoapp-writerscans",
+      "displayName": "Writer Scans",
+      "description": "Writer Scans \u2014 keyoapp theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkeyoapp_multisrc.so",
+      "sha256": "f3b3320992545731c813bb6deadceb08deeb6f5e3bbcfbb8e245f9204b63e8ed",
+      "size": 3026256,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-aarlas",
+      "displayName": "Aarlas",
+      "description": "Aarlas \u2014 zeistmanga theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-apenasumafa",
+      "displayName": "Apenas Uma F\u00e3",
+      "description": "Apenas Uma F\u00e3 \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-comicverse",
+      "displayName": "Comic Verse",
+      "description": "Comic Verse \u2014 zeistmanga theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-darkroomfansub",
+      "displayName": "Dark Room Fansub",
+      "description": "Dark Room Fansub \u2014 zeistmanga theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-datgarscanlation",
+      "displayName": "Dat-Gar Scan",
+      "description": "Dat-Gar Scan \u2014 zeistmanga theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-duoscans",
+      "displayName": "Duo Scans",
+      "description": "Duo Scans \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-hanmokkuscan",
+      "displayName": "Hanmokku Scan",
+      "description": "Hanmokku Scan \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-homocdrs",
+      "displayName": "HOMOcdrs",
+      "description": "HOMOcdrs \u2014 zeistmanga theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-inazumanga",
+      "displayName": "ReYume",
+      "description": "ReYume \u2014 zeistmanga theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-iniotaku",
+      "displayName": "IniOtaku",
+      "description": "IniOtaku \u2014 zeistmanga theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-jentranslation",
+      "displayName": "JenTranslation",
+      "description": "JenTranslation \u2014 zeistmanga theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-kazescans",
+      "displayName": "KazeScans",
+      "description": "KazeScans \u2014 zeistmanga theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-kokkokuteiscankt",
+      "displayName": "Kokkokutei Scan KT",
+      "description": "Kokkokutei Scan KT \u2014 zeistmanga theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-leitorreverse",
+      "displayName": "Leitor Reverse",
+      "description": "Leitor Reverse \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-lepoytl",
+      "displayName": "LepoyTL",
+      "description": "LepoyTL \u2014 zeistmanga theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-ler999",
+      "displayName": "Ler 999",
+      "description": "Ler 999 \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-lonertranslations",
+      "displayName": "Loner Translations",
+      "description": "Loner Translations \u2014 zeistmanga theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-mangaailand",
+      "displayName": "Manga Ai Land",
+      "description": "Manga Ai Land \u2014 zeistmanga theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-pinkrosa",
+      "displayName": "Pink Rosa",
+      "description": "Pink Rosa \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-shadowceviri",
+      "displayName": "Shadow \u00c7eviri",
+      "description": "Shadow \u00c7eviri \u2014 zeistmanga theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-shiyurasub",
+      "displayName": "ShiyuraSub",
+      "description": "ShiyuraSub \u2014 zeistmanga theme source (id) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-traducoesdolipe",
+      "displayName": "Tradu\u00e7\u00f5es do Lipe",
+      "description": "Tradu\u00e7\u00f5es do Lipe \u2014 zeistmanga theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-xsanomanga",
+      "displayName": "XSano Manga",
+      "description": "XSano Manga \u2014 zeistmanga theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "zeistmanga-yurimoonsub",
+      "displayName": "Yuri Moon Sub",
+      "description": "Yuri Moon Sub \u2014 zeistmanga theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
+      "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
+      "size": 3063960,
+      "ported": true
     }
   ]
 }
