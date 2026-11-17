@@ -1,0 +1,542 @@
+[
+ {
+  "key": "galleryadults-asmhentai-en",
+  "name": "AsmHentai",
+  "url": "https://asmhentai.com",
+  "id": 6135783261825346877,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://asmhentai.com/favicon.ico",
+  "slug": "asmhentai"
+ },
+ {
+  "key": "galleryadults-asmhentai-ja",
+  "name": "AsmHentai",
+  "url": "https://asmhentai.com",
+  "id": 7717437664180966273,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://asmhentai.com/favicon.ico",
+  "slug": "asmhentai"
+ },
+ {
+  "key": "galleryadults-asmhentai-zh",
+  "name": "AsmHentai",
+  "url": "https://asmhentai.com",
+  "id": 2819783147032745073,
+  "lang": "zh",
+  "nsfw": true,
+  "icon": "https://asmhentai.com/favicon.ico",
+  "slug": "asmhentai"
+ },
+ {
+  "key": "galleryadults-asmhentai-all",
+  "name": "AsmHentai",
+  "url": "https://asmhentai.com",
+  "id": 7786528235956058474,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://asmhentai.com/favicon.ico",
+  "slug": "asmhentai"
+ },
+ {
+  "key": "galleryadults-hentaienvy-en",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 8073115021554725655,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-ja",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 7983253093172640758,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-es",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 351350516671223209,
+  "lang": "es",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-fr",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 1191404418837235865,
+  "lang": "fr",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-ko",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 2611030308394588473,
+  "lang": "ko",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-de",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 2455783957781415791,
+  "lang": "de",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-ru",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 6651113074608915226,
+  "lang": "ru",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaienvy-all",
+  "name": "HentaiEnvy",
+  "url": "https://hentaienvy.com",
+  "id": 918989295758523524,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://hentaienvy.com/favicon.ico",
+  "slug": "hentaienvy"
+ },
+ {
+  "key": "galleryadults-hentaiera-en",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 647637185891033517,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-ja",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 2492666945996599997,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-es",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 1720815810677381837,
+  "lang": "es",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-fr",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 6887659515539839354,
+  "lang": "fr",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-ko",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 5930644847758440964,
+  "lang": "ko",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-de",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 1901100795183424105,
+  "lang": "de",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-ru",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 4966955732363898584,
+  "lang": "ru",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaiera-all",
+  "name": "HentaiEra",
+  "url": "https://hentaiera.com",
+  "id": 5238899243957092391,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://hentaiera.com/favicon.ico",
+  "slug": "hentaiera"
+ },
+ {
+  "key": "galleryadults-hentaifox-en",
+  "name": "HentaiFox",
+  "url": "https://hentaifox.com",
+  "id": 7945033982379409892,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://hentaifox.com/favicon.ico",
+  "slug": "hentaifox"
+ },
+ {
+  "key": "galleryadults-hentaifox-ja",
+  "name": "HentaiFox",
+  "url": "https://hentaifox.com",
+  "id": 8640201438684762638,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://hentaifox.com/favicon.ico",
+  "slug": "hentaifox"
+ },
+ {
+  "key": "galleryadults-hentaifox-zh",
+  "name": "HentaiFox",
+  "url": "https://hentaifox.com",
+  "id": 3252050349835097844,
+  "lang": "zh",
+  "nsfw": true,
+  "icon": "https://hentaifox.com/favicon.ico",
+  "slug": "hentaifox"
+ },
+ {
+  "key": "galleryadults-hentaifox-ko",
+  "name": "HentaiFox",
+  "url": "https://hentaifox.com",
+  "id": 2146024794445748144,
+  "lang": "ko",
+  "nsfw": true,
+  "icon": "https://hentaifox.com/favicon.ico",
+  "slug": "hentaifox"
+ },
+ {
+  "key": "galleryadults-hentaifox-all",
+  "name": "HentaiFox",
+  "url": "https://hentaifox.com",
+  "id": 2697587119837846427,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://hentaifox.com/favicon.ico",
+  "slug": "hentaifox"
+ },
+ {
+  "key": "galleryadults-hentainame",
+  "name": "Hentai.name",
+  "url": "https://www.hentai.name",
+  "id": 5877161978238359494,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://www.hentai.name/favicon.ico",
+  "slug": "hentainame"
+ },
+ {
+  "key": "galleryadults-hentairox-en",
+  "name": "HentaiRox",
+  "url": "https://hentairox.com",
+  "id": 2799291971714927306,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://hentairox.com/favicon.ico",
+  "slug": "hentairox"
+ },
+ {
+  "key": "galleryadults-hentairox-ja",
+  "name": "HentaiRox",
+  "url": "https://hentairox.com",
+  "id": 2013504679812912827,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://hentairox.com/favicon.ico",
+  "slug": "hentairox"
+ },
+ {
+  "key": "galleryadults-hentairox-all",
+  "name": "HentaiRox",
+  "url": "https://hentairox.com",
+  "id": 3310562162433401964,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://hentairox.com/favicon.ico",
+  "slug": "hentairox"
+ },
+ {
+  "key": "galleryadults-hentaizap-en",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 3055889891446984546,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-ja",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 6555947477839387123,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-es",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 4825793506555725623,
+  "lang": "es",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-fr",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 7896453910191786163,
+  "lang": "fr",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-ko",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 9190914504602528025,
+  "lang": "ko",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-de",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 1397842818609440667,
+  "lang": "de",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-ru",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 6614026304171193007,
+  "lang": "ru",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-hentaizap-all",
+  "name": "HentaiZap",
+  "url": "https://hentaizap.com",
+  "id": 279262715881564190,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://hentaizap.com/favicon.ico",
+  "slug": "hentaizap"
+ },
+ {
+  "key": "galleryadults-imhentai-en",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 1797754663718263026,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-ja",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 2843704102372436364,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-es",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 1600533831542201953,
+  "lang": "es",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-fr",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 6518732459102419415,
+  "lang": "fr",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-ko",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 520535890722709208,
+  "lang": "ko",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-de",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 341676138799608238,
+  "lang": "de",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-ru",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 7505608677115153818,
+  "lang": "ru",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-imhentai-all",
+  "name": "IMHentai",
+  "url": "https://imhentai.xxx",
+  "id": 3395462671769287908,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://imhentai.xxx/favicon.ico",
+  "slug": "imhentai"
+ },
+ {
+  "key": "galleryadults-nhentaito-en",
+  "name": "NHentai.to",
+  "url": "https://nhentai.to",
+  "id": 1911624300824763845,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://nhentai.to/favicon.ico",
+  "slug": "nhentaito"
+ },
+ {
+  "key": "galleryadults-nhentaito-ja",
+  "name": "NHentai.to",
+  "url": "https://nhentai.to",
+  "id": 2472948389653215607,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://nhentai.to/favicon.ico",
+  "slug": "nhentaito"
+ },
+ {
+  "key": "galleryadults-nhentaito-zh",
+  "name": "NHentai.to",
+  "url": "https://nhentai.to",
+  "id": 79691962210322609,
+  "lang": "zh",
+  "nsfw": true,
+  "icon": "https://nhentai.to/favicon.ico",
+  "slug": "nhentaito"
+ },
+ {
+  "key": "galleryadults-nhentaito-ko",
+  "name": "NHentai.to",
+  "url": "https://nhentai.to",
+  "id": 874357157692405334,
+  "lang": "ko",
+  "nsfw": true,
+  "icon": "https://nhentai.to/favicon.ico",
+  "slug": "nhentaito"
+ },
+ {
+  "key": "galleryadults-nhentaito-all",
+  "name": "NHentai.to",
+  "url": "https://nhentai.to",
+  "id": 7910220811455615939,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://nhentai.to/favicon.ico",
+  "slug": "nhentaito"
+ },
+ {
+  "key": "galleryadults-nhentaixxx-en",
+  "name": "NHentai.xxx",
+  "url": "https://nhentai.xxx",
+  "id": 1759845183972082995,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://nhentai.xxx/favicon.ico",
+  "slug": "nhentaixxx"
+ },
+ {
+  "key": "galleryadults-nhentaixxx-ja",
+  "name": "NHentai.xxx",
+  "url": "https://nhentai.xxx",
+  "id": 5939253174175011564,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://nhentai.xxx/favicon.ico",
+  "slug": "nhentaixxx"
+ },
+ {
+  "key": "galleryadults-nhentaixxx-zh",
+  "name": "NHentai.xxx",
+  "url": "https://nhentai.xxx",
+  "id": 560822675588930101,
+  "lang": "zh",
+  "nsfw": true,
+  "icon": "https://nhentai.xxx/favicon.ico",
+  "slug": "nhentaixxx"
+ },
+ {
+  "key": "galleryadults-nhentaixxx-all",
+  "name": "NHentai.xxx",
+  "url": "https://nhentai.xxx",
+  "id": 2384499981488817067,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://nhentai.xxx/favicon.ico",
+  "slug": "nhentaixxx"
+ }
+]

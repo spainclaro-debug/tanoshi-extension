@@ -1,0 +1,382 @@
+[
+ {
+  "key": "hentaihand-hentaihand-all",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 1235047015955289468,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-ja",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 4992571563369273240,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-en",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 1438773694780928937,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-zh",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 866133291730804205,
+  "lang": "zh",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-bg",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 7561346598466986562,
+  "lang": "bg",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-ceb",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 2136686110556284465,
+  "lang": "ceb",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-other",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 7302549142935671434,
+  "lang": "other",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-tl",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 8205998909543626240,
+  "lang": "tl",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-ar",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 5494684486943087247,
+  "lang": "ar",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-el",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 9098484674492839156,
+  "lang": "el",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-sr",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 259350817779848434,
+  "lang": "sr",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-jv",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 8174384290387590645,
+  "lang": "jv",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-uk",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 299569391162966579,
+  "lang": "uk",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-tr",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 6304497572870246566,
+  "lang": "tr",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-la",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 3078530910469685147,
+  "lang": "la",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-mn",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 4197081087116305652,
+  "lang": "mn",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-eo",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 6189674531673390664,
+  "lang": "eo",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-sk",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 3548394435548008920,
+  "lang": "sk",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-hentaihand-cs",
+  "name": "HentaiHand",
+  "url": "https://hentaihand.com",
+  "id": 6818645358118704394,
+  "lang": "cs",
+  "nsfw": true,
+  "icon": "https://hentaihand.com/favicon.ico",
+  "slug": "hentaihand"
+ },
+ {
+  "key": "hentaihand-nhentaicom-all",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 9165839893600661480,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-zh",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 8504927104562262528,
+  "lang": "zh",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-en",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 5591830863732393712,
+  "lang": "en",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-ja",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 8148939977393580424,
+  "lang": "ja",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-other",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 5817327335315373850,
+  "lang": "other",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-ar",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 1773653553472615327,
+  "lang": "ar",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-jv",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 4984830439465026319,
+  "lang": "jv",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-bg",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 5355858532116403799,
+  "lang": "bg",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-cs",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 1144495813995437124,
+  "lang": "cs",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-uk",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 1872394332504252034,
+  "lang": "uk",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-sk",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 8189813976393792973,
+  "lang": "sk",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-eo",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 5464986831390726554,
+  "lang": "eo",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-mn",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 3640686393110022124,
+  "lang": "mn",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-la",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 6750311061190710079,
+  "lang": "la",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-ceb",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 8306394815737846919,
+  "lang": "ceb",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-tl",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 4352420071178605258,
+  "lang": "tl",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-tr",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 6423038744951581148,
+  "lang": "tr",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-sr",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 1001519209586733699,
+  "lang": "sr",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ },
+ {
+  "key": "hentaihand-nhentaicom-el",
+  "name": "nHentai.com (unoriginal)",
+  "url": "https://nhentai.com",
+  "id": 6038464145206378323,
+  "lang": "el",
+  "nsfw": true,
+  "icon": "https://nhentai.com/favicon.ico",
+  "slug": "nhentaicom"
+ }
+]

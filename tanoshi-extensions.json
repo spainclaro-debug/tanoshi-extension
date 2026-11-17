@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "note": "Prebuilt aarch64-linux-android Tanoshi extensions for the Tanoshi Mobile Server APK. Add this repository in the app: Sources -> Add repository -> https://github.com/spainclaro-debug/tanoshi-extension (or the raw index.json URL).",
   "extensions": [
     {
@@ -982,6 +982,834 @@
       "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
       "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
       "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-asmhentai-en",
+      "displayName": "AsmHentai",
+      "description": "AsmHentai \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-asmhentai-ja",
+      "displayName": "AsmHentai",
+      "description": "AsmHentai \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-asmhentai-zh",
+      "displayName": "AsmHentai",
+      "description": "AsmHentai \u2014 galleryadults theme source (zh) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-asmhentai-all",
+      "displayName": "AsmHentai",
+      "description": "AsmHentai \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-en",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-ja",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-es",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-fr",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (fr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-ko",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (ko) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-de",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (de) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-ru",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (ru) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaienvy-all",
+      "displayName": "HentaiEnvy",
+      "description": "HentaiEnvy \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-en",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-ja",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-es",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-fr",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (fr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-ko",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (ko) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-de",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (de) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-ru",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (ru) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaiera-all",
+      "displayName": "HentaiEra",
+      "description": "HentaiEra \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaifox-en",
+      "displayName": "HentaiFox",
+      "description": "HentaiFox \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaifox-ja",
+      "displayName": "HentaiFox",
+      "description": "HentaiFox \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaifox-zh",
+      "displayName": "HentaiFox",
+      "description": "HentaiFox \u2014 galleryadults theme source (zh) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaifox-ko",
+      "displayName": "HentaiFox",
+      "description": "HentaiFox \u2014 galleryadults theme source (ko) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaifox-all",
+      "displayName": "HentaiFox",
+      "description": "HentaiFox \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentainame",
+      "displayName": "Hentai.name",
+      "description": "Hentai.name \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentairox-en",
+      "displayName": "HentaiRox",
+      "description": "HentaiRox \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentairox-ja",
+      "displayName": "HentaiRox",
+      "description": "HentaiRox \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentairox-all",
+      "displayName": "HentaiRox",
+      "description": "HentaiRox \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-en",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-ja",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-es",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-fr",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (fr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-ko",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (ko) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-de",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (de) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-ru",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (ru) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-hentaizap-all",
+      "displayName": "HentaiZap",
+      "description": "HentaiZap \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-en",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-ja",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-es",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-fr",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (fr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-ko",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (ko) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-de",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (de) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-ru",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (ru) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-imhentai-all",
+      "displayName": "IMHentai",
+      "description": "IMHentai \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaito-en",
+      "displayName": "NHentai.to",
+      "description": "NHentai.to \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaito-ja",
+      "displayName": "NHentai.to",
+      "description": "NHentai.to \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaito-zh",
+      "displayName": "NHentai.to",
+      "description": "NHentai.to \u2014 galleryadults theme source (zh) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaito-ko",
+      "displayName": "NHentai.to",
+      "description": "NHentai.to \u2014 galleryadults theme source (ko) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaito-all",
+      "displayName": "NHentai.to",
+      "description": "NHentai.to \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaixxx-en",
+      "displayName": "NHentai.xxx",
+      "description": "NHentai.xxx \u2014 galleryadults theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaixxx-ja",
+      "displayName": "NHentai.xxx",
+      "description": "NHentai.xxx \u2014 galleryadults theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaixxx-zh",
+      "displayName": "NHentai.xxx",
+      "description": "NHentai.xxx \u2014 galleryadults theme source (zh) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "galleryadults-nhentaixxx-all",
+      "displayName": "NHentai.xxx",
+      "description": "NHentai.xxx \u2014 galleryadults theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libgalleryadults_multisrc.so",
+      "sha256": "912acf23b4b52647caad359f9cf93275ef293d570bd92e6d3ba6f2fa6b01f9ef",
+      "size": 3057704,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-all",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-ja",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-en",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-zh",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (zh) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-bg",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (bg) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-ceb",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (ceb) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-other",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (other) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-tl",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (tl) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-ar",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-el",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (el) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-sr",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (sr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-jv",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (jv) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-uk",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (uk) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-tr",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-la",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (la) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-mn",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (mn) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-eo",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (eo) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-sk",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (sk) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-hentaihand-cs",
+      "displayName": "HentaiHand",
+      "description": "HentaiHand \u2014 hentaihand theme source (cs) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-all",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-zh",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (zh) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-en",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-ja",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (ja) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-other",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (other) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-ar",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-jv",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (jv) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-bg",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (bg) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-cs",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (cs) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-uk",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (uk) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-sk",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (sk) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-eo",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (eo) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-mn",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (mn) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-la",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (la) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-ceb",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (ceb) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-tl",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (tl) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-tr",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-sr",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (sr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
+      "ported": true
+    },
+    {
+      "name": "hentaihand-nhentaicom-el",
+      "displayName": "nHentai.com (unoriginal)",
+      "description": "nHentai.com (unoriginal) \u2014 hentaihand theme source (el) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentaihand_multisrc.so",
+      "sha256": "441a794cc017f65510567c28464bd807d659fef05df49bdae6166e6f9c1bedc3",
+      "size": 2075224,
       "ported": true
     }
   ]

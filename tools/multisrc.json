@@ -6,6 +6,18 @@
       "plugin": "madara_multisrc",
       "sites": "sources/multisrc/madara/sites.json",
       "verified": "sources/multisrc/madara/verified.json"
+    },
+    {
+      "theme": "galleryadults",
+      "plugin": "galleryadults_multisrc",
+      "sites": "sources/multisrc/galleryadults/sites.json",
+      "verified": "sources/multisrc/galleryadults/verified.json"
+    },
+    {
+      "theme": "hentaihand",
+      "plugin": "hentaihand_multisrc",
+      "sites": "sources/multisrc/hentaihand/sites.json",
+      "verified": "sources/multisrc/hentaihand/verified.json"
     }
   ]
 }
