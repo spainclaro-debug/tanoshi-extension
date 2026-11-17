@@ -1,0 +1,20 @@
+[package]
+name = "madara_multisrc"
+version = "1.6.0"
+edition.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = { workspace = true }
+bytes = { workspace = true }
+extension-utils = { workspace = true }
+libc = "0.2"
+log = { workspace = true }
+networking = { workspace = true }
+scraper = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tanoshi-lib = { workspace = true }
+urlencoding = { workspace = true }

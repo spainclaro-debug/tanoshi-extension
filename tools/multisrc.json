@@ -1,0 +1,11 @@
+{
+  "note": "Multisrc themes published as one shared plugin binary with one catalog entry per verified site. Each entry points at the same URL; the installed file name selects the site config at runtime.",
+  "themes": [
+    {
+      "theme": "madara",
+      "plugin": "madara_multisrc",
+      "sites": "sources/multisrc/madara/sites.json",
+      "verified": "sources/multisrc/madara/verified.json"
+    }
+  ]
+}

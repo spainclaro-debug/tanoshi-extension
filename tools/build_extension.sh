@@ -111,7 +111,7 @@ fi
 # Copy the crate(s) into the workspace.
 # ---------------------------------------------------------------------------
 if [ "$BUILD_ALL" = "1" ]; then
-    for dir in "$SOURCES_DIR"/ported/*/; do
+    for dir in "$SOURCES_DIR"/ported/*/ "$SOURCES_DIR"/multisrc/*/; do
         [ -f "$dir/Cargo.toml" ] && CRATES+=("${dir%/}")
     done
 fi
@@ -131,7 +131,9 @@ for crate in "${CRATES[@]}"; do
         RUSTFLAGS="-Clink-arg=-Wl,--allow-multiple-definition -Clink-arg=-Wl,-z,max-page-size=16384" \
             cargo build --release -p "$pkg" "${TARGET_ARGS[@]}"
     )
-    so="$TARGET_DIR/$SO_PATH_REL/lib${pkg}.so"
+    # cargo converts hyphens in the package name to underscores for the lib path
+    libname="${pkg//-/_}"
+    so="$TARGET_DIR/$SO_PATH_REL/lib${libname}.so"
     [ -f "$so" ] || die "build produced no $so"
     strip "$so" 2>/dev/null || true
     cp "$so" "$OUTPUT_DIR/lib${pkg}.so"

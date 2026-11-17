@@ -128,6 +128,861 @@
       "sha256": "87ff56f56bd7403c0e1f42dddeec5f3cdce08535f74f0dd2979c455e4fdedbd9",
       "size": 2906896,
       "ported": true
+    },
+    {
+      "name": "madara-fastestmanga-en",
+      "displayName": "Fastest Manga",
+      "description": "Fastest Manga \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-fastestmanga-tr",
+      "displayName": "Fastest Manga",
+      "description": "Fastest Manga \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-grabberzone",
+      "displayName": "Grabber Zone",
+      "description": "Grabber Zone \u2014 madara theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangacrazy",
+      "displayName": "MangaCrazy",
+      "description": "MangaCrazy \u2014 madara theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangaforfree-en",
+      "displayName": "MangaForFree.net",
+      "description": "MangaForFree.net \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhwaclubnet-en",
+      "displayName": "ManhwaClub.net",
+      "description": "ManhwaClub.net \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-nhentaiyaoi",
+      "displayName": "nHentai Yaoi",
+      "description": "nHentai Yaoi \u2014 madara theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-seraphicdeviltry-en",
+      "displayName": "SeraphicDeviltry",
+      "description": "SeraphicDeviltry \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-seraphicdeviltry-es",
+      "displayName": "SeraphicDeviltry",
+      "description": "SeraphicDeviltry \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-arbxcomix",
+      "displayName": "ArbxComix",
+      "description": "ArbxComix \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-empirewebtoon",
+      "displayName": "Empire Webtoon",
+      "description": "Empire Webtoon \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangalek",
+      "displayName": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0643",
+      "description": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0643 \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangalink",
+      "displayName": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0646\u0643",
+      "description": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0646\u0643 \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangalionz",
+      "displayName": "MangaLionz",
+      "description": "MangaLionz \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangaspark",
+      "displayName": "MangaSpark",
+      "description": "MangaSpark \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangastarz",
+      "displayName": "Manga Starz",
+      "description": "Manga Starz \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-yonabar",
+      "displayName": "Yona Bar",
+      "description": "Yona Bar \u2014 madara theme source (ar) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-allporncomicio",
+      "displayName": "AllPornComic.io",
+      "description": "AllPornComic.io \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-apcomics",
+      "displayName": "AP Comics",
+      "description": "AP Comics \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-battleinfivesecondsaftermeeting",
+      "displayName": "Battle In 5 Seconds After Meeting",
+      "description": "Battle In 5 Seconds After Meeting \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-decadencescans",
+      "displayName": "Decadence Scans",
+      "description": "Decadence Scans \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-frierenonline",
+      "displayName": "Frieren Online",
+      "description": "Frieren Online \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-gakamangas",
+      "displayName": "GakaMangas",
+      "description": "GakaMangas \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hentai1io",
+      "displayName": "Hentai1.io",
+      "description": "Hentai1.io \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hentaixcomic",
+      "displayName": "HentaiXComic",
+      "description": "HentaiXComic \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hentaixdickgirl",
+      "displayName": "HentaiXDickgirl",
+      "description": "HentaiXDickgirl \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hentaixyuri",
+      "displayName": "HentaiXYuri",
+      "description": "HentaiXYuri \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hm2d",
+      "displayName": "HM2D",
+      "description": "HM2D \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-jinmangas",
+      "displayName": "Jinmangas",
+      "description": "Jinmangas \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-ksgroupscans",
+      "displayName": "KSGroupScans",
+      "description": "KSGroupScans \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-lhtranslation",
+      "displayName": "LHTranslation",
+      "description": "LHTranslation \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-linkmanga",
+      "displayName": "LinkManga",
+      "description": "LinkManga \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-lovesjanescans",
+      "displayName": "Lovesjane Scans",
+      "description": "Lovesjane Scans \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangaforfreecom",
+      "displayName": "Mangaforfree.com",
+      "description": "Mangaforfree.com \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangaowlio",
+      "displayName": "MangaOwl.io (unoriginal)",
+      "description": "MangaOwl.io (unoriginal) \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhuahot",
+      "displayName": "ManhuaHot",
+      "description": "ManhuaHot \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhwahubto",
+      "displayName": "ManhwaHub.to",
+      "description": "ManhwaHub.to \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhwanex",
+      "displayName": "ManhwaNex",
+      "description": "ManhwaNex \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-orchisasia",
+      "displayName": "Orchisasia",
+      "description": "Orchisasia \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-petrotechsociety",
+      "displayName": "Petrotechsociety",
+      "description": "Petrotechsociety \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-rubycomics",
+      "displayName": "Ruby Comics",
+      "description": "Ruby Comics \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-yakshacomics",
+      "displayName": "YakshaComics",
+      "description": "YakshaComics \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangadistrict",
+      "displayName": "Manga District",
+      "description": "Manga District \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangamaniacs",
+      "displayName": "MangaManiacs",
+      "description": "MangaManiacs \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhuaplus",
+      "displayName": "Manhua Plus",
+      "description": "Manhua Plus \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhwaden",
+      "displayName": "ManhwaDen",
+      "description": "ManhwaDen \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhwareads",
+      "displayName": "Manhwa Reads",
+      "description": "Manhwa Reads \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-paritehaber",
+      "displayName": "Paritehaber",
+      "description": "Paritehaber \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-pornhwaz",
+      "displayName": "Pornhwaz",
+      "description": "Pornhwaz \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-s2manga",
+      "displayName": "S2Manga",
+      "description": "S2Manga \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-toonizy",
+      "displayName": "Toonizy",
+      "description": "Toonizy \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-tritiniascans",
+      "displayName": "TritiniaScans",
+      "description": "TritiniaScans \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-wearehunger",
+      "displayName": "KokoMangas",
+      "description": "KokoMangas \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-webtoonscan",
+      "displayName": "WebtoonScan",
+      "description": "WebtoonScan \u2014 madara theme source (en) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-doujinshell",
+      "displayName": "DoujinsHell",
+      "description": "DoujinsHell \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hadesnofansub",
+      "displayName": "Hades no Fansub",
+      "description": "Hades no Fansub \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-inmortalscan",
+      "displayName": "Inmortal Scan",
+      "description": "Inmortal Scan \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-ragnarokscanlation",
+      "displayName": "Ragnarok Scanlation",
+      "description": "Ragnarok Scanlation \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-topcomicporno",
+      "displayName": "TopComicPorno",
+      "description": "TopComicPorno \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-yurionline",
+      "displayName": "Yuri-Online",
+      "description": "Yuri-Online \u2014 madara theme source (es) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hentaiscantrad",
+      "displayName": "Hentai-Scantrad",
+      "description": "Hentai-Scantrad \u2014 madara theme source (fr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-animeshinigami",
+      "displayName": "AnimeShinigami",
+      "description": "AnimeShinigami \u2014 madara theme source (it) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-shinobiscans",
+      "displayName": "Shinobi Scans",
+      "description": "Shinobi Scans \u2014 madara theme source (it) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-cafecomyaoi",
+      "displayName": "Caf\u00e9 com Yaoi",
+      "description": "Caf\u00e9 com Yaoi \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-covenscan",
+      "displayName": "Coven Scan",
+      "description": "Coven Scan \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-euphoriascan",
+      "displayName": "Euphoria Scan",
+      "description": "Euphoria Scan \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hentaiteca",
+      "displayName": "Hentai Teca",
+      "description": "Hentai Teca \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-hotcabaretscan",
+      "displayName": "Hot Cabaret Scan",
+      "description": "Hot Cabaret Scan \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-inkapk",
+      "displayName": "Inkapk",
+      "description": "Inkapk \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangalivreto",
+      "displayName": "Manga Livre.to",
+      "description": "Manga Livre.to \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-montetai",
+      "displayName": "Monte Tai",
+      "description": "Monte Tai \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-nebulosascan",
+      "displayName": "Nebulosa Scan",
+      "description": "Nebulosa Scan \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-ninjascan",
+      "displayName": "Ninja Scan",
+      "description": "Ninja Scan \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-tankouhentai",
+      "displayName": "Tankou Hentai",
+      "description": "Tankou Hentai \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-yuriverso",
+      "displayName": "Yuri on Air",
+      "description": "Yuri on Air \u2014 madara theme source (pt-BR) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-cat300",
+      "displayName": "Cat300",
+      "description": "Cat300 \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-doodmanga",
+      "displayName": "Doodmanga",
+      "description": "Doodmanga \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-doujinxh",
+      "displayName": "Doujinx-H",
+      "description": "Doujinx-H \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-doujinza",
+      "displayName": "DoujinZa",
+      "description": "DoujinZa \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mangalc",
+      "displayName": "Manga-Lc",
+      "description": "Manga-Lc \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhuabug",
+      "displayName": "ManhuaBug",
+      "description": "ManhuaBug \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-manhuathai",
+      "displayName": "ManhuaThai",
+      "description": "ManhuaThai \u2014 madara theme source (th) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-anikiga",
+      "displayName": "Anikiga",
+      "description": "Anikiga \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-averisfansub",
+      "displayName": "Averis Fansub",
+      "description": "Averis Fansub \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-diamondfansub",
+      "displayName": "DiamondFansub",
+      "description": "DiamondFansub \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-laviniafansub",
+      "displayName": "Lavinia Fansub",
+      "description": "Lavinia Fansub \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-mindafansub",
+      "displayName": "Minda Fansub",
+      "description": "Minda Fansub \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-ruyamanga",
+      "displayName": "R\u00fcya Manga",
+      "description": "R\u00fcya Manga \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-tarotscans",
+      "displayName": "Tarot Scans",
+      "description": "Tarot Scans \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-tonizutoon",
+      "displayName": "TonizuToon",
+      "description": "TonizuToon \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-tortugaceviri",
+      "displayName": "Tortuga Ceviri",
+      "description": "Tortuga Ceviri \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-turkcemangaoku",
+      "displayName": "T\u00fcrk\u00e7e Manga Oku",
+      "description": "T\u00fcrk\u00e7e Manga Oku \u2014 madara theme source (tr) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-ruahapchanhday",
+      "displayName": "R\u00f9a H\u1ea5p Chanh D\u00e2y",
+      "description": "R\u00f9a H\u1ea5p Chanh D\u00e2y \u2014 madara theme source (vi) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-truyentranhdammy",
+      "displayName": "Truy\u1ec7n tranh \u0111am m\u1ef9",
+      "description": "Truy\u1ec7n tranh \u0111am m\u1ef9 \u2014 madara theme source (vi) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
+    },
+    {
+      "name": "madara-truyentuoitho",
+      "displayName": "TruyenTuoiTho",
+      "description": "TruyenTuoiTho \u2014 madara theme source (vi) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadara_multisrc.so",
+      "sha256": "1d125cb105a61badcb19434232d9d84928684fec51bedde06eee987496ebd632",
+      "size": 3010512,
+      "ported": true
     }
   ]
 }

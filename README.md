@@ -34,7 +34,27 @@ The app lists the extensions below and installs/updates them over HTTPS after ve
 
 Only Android `arm64-v8a` is supported.
 
-The Rust ports are ports of [Keiyoushi](https://github.com/keiyoushi/extensions-source) Tachiyomi extensions. Every port in this repository was exercised end-to-end against the live site before being published: popular/latest/search listings, manga details, chapter lists, page lists and a real image download, through the same plugin ABI the server uses. Sites change and break over time; if a source stops working, update its port or open an issue.
+### Multisrc theme bundles
+
+Beyond the individual ports above, the catalog also lists every **verified site of the
+shared Keiyoushi scraper themes** (Madara, MangaThemesia, GalleryAdults, HentaiHand,
+ZeistManga, MangaCatalog, Keyoapp, …). Those thousands of Keiyoushi sources share a
+scraper implementation per theme, so they are published as one plugin binary per theme
+with one catalog entry per site: all entries of a theme point at the same `.so`, and the
+plugin selects its site configuration from the installed file name at runtime. Installing
+one catalog entry still installs one extension (one Tanoshi source).
+
+The catalog includes **NSFW / 18+ sources**; they are reported as NSFW by the server.
+Only sites that were verified end-to-end against the live site (listings, details,
+chapters, pages, image download) are listed.
+
+> **Install in batches.** Every installed extension starts its own worker process inside
+> the server. Installing hundreds of extensions at once can exhaust a phone's memory;
+> install/test in batches of roughly 10–20 and remove/disable the ones you do not need.
+> The app's **Sources** tab shows what is installed; the server restart prompt applies
+> after each batch.
+
+The Rust ports are ports of [Keiyoushi](https://github.com/keiyoushi/extensions-source) Tachiyomi extensions. Every published entry was exercised end-to-end against the live site before being published: popular/latest/search listings, manga details, chapter lists, page lists and a real image download, through the same plugin ABI the server uses. Sites change and break over time; if a source stops working, update its port or open an issue.
 
 ## Repository layout
 
@@ -45,12 +65,16 @@ The Rust ports are ports of [Keiyoushi](https://github.com/keiyoushi/extensions-
 │   └── plugins/lib<name>.so       # prebuilt extensions
 ├── tanoshi-extensions.json        # same catalog at the repo root (convenience)
 ├── sources/
-│   ├── ported/<name>/             # Rust source of each ported extension
+│   ├── ported/<name>/             # Rust source of each individually ported extension
+│   ├── multisrc/<theme>/          # one Rust crate per Keiyoushi multisrc theme
+│   │   ├── sites.json             # embedded site/source config table
+│   │   └── verified.json          # sites verified live (only these are published)
 │   └── template/                  # skeleton crate for porting a new source
 ├── patches/                       # patches applied to the tanoshi-extensions workspace
 ├── tools/
 │   ├── build_extension.sh         # build a source into plugins/lib<name>.so
 │   ├── catalog-meta.json          # human catalog fields (single source of truth)
+│   ├── multisrc.json              # multisrc theme → plugin → sites/verified mapping
 │   └── update_catalog.py          # regenerate both catalogs from the plugins
 └── LICENSE
 ```
@@ -89,6 +113,7 @@ then regenerate both catalogs with the hashes and sizes filled in:
 
 ```bash
 python3 tools/update_catalog.py          # rewrite android/extensions/index.json and tanoshi-extensions.json
+# (multisrc entries are generated from sources/multisrc/*/verified.json automatically)
 python3 tools/update_catalog.py --check  # verify the catalogs match the plugins (CI/pre-commit)
 ```
 

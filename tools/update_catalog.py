@@ -27,6 +27,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 META_PATH = REPO_ROOT / "tools" / "catalog-meta.json"
+MULTISRC_PATH = REPO_ROOT / "tools" / "multisrc.json"
 PLUGINS_DIR = REPO_ROOT / "android" / "extensions" / "plugins"
 CATALOG_PATHS = [
     REPO_ROOT / "android" / "extensions" / "index.json",
@@ -47,6 +48,51 @@ def sha256_of(path: Path) -> str:
     return digest.hexdigest()
 
 
+def load_multisrc_entries(repository: str) -> tuple[list[dict], list[str]]:
+    """One catalog entry per verified site of every multisrc theme."""
+    entries: list[dict] = []
+    problems: list[str] = []
+    if not MULTISRC_PATH.is_file():
+        return entries, problems
+    manifest = json.loads(MULTISRC_PATH.read_text(encoding="utf-8"))
+    for theme in manifest.get("themes", []):
+        plugin_name = theme["plugin"]
+        plugin = PLUGINS_DIR / f"lib{plugin_name}.so"
+        if not plugin.is_file():
+            problems.append(f"missing multisrc plugin: {plugin.relative_to(REPO_ROOT)}")
+            continue
+        sites_path = REPO_ROOT / theme["sites"]
+        verified_path = REPO_ROOT / theme["verified"]
+        if not sites_path.is_file() or not verified_path.is_file():
+            problems.append(
+                f"multisrc {theme['theme']}: missing {theme['sites']} or {theme['verified']}"
+            )
+            continue
+        sites = {site["key"]: site for site in json.loads(sites_path.read_text(encoding="utf-8"))}
+        verified = set(json.loads(verified_path.read_text(encoding="utf-8")))
+        digest = sha256_of(plugin)
+        size = plugin.stat().st_size
+        for key, site in sites.items():
+            if key not in verified:
+                continue
+            language = site.get("lang", "en")
+            entries.append(
+                {
+                    "name": key,
+                    "displayName": site.get("name", key),
+                    "description": (
+                        f"{site.get('name', key)} — {theme['theme']} theme source "
+                        f"({language}) ported from Keiyoushi."
+                    ),
+                    "url": f"{repository}/lib{plugin_name}.so",
+                    "sha256": digest,
+                    "size": size,
+                    "ported": True,
+                }
+            )
+    return entries, problems
+
+
 def build_catalog(meta: dict) -> dict:
     repository = meta.get("repository", DEFAULT_REPOSITORY).rstrip("/")
     extensions = []
@@ -54,7 +100,10 @@ def build_catalog(meta: dict) -> dict:
 
     for entry in meta.get("extensions", []):
         name = entry["name"]
-        plugin = PLUGINS_DIR / f"lib{name}.so"
+        # Multi-source (theme) entries share one prebuilt plugin binary: the
+        # optional `plugin` field names it, otherwise the entry name is used.
+        plugin_name = entry.get("plugin", name)
+        plugin = PLUGINS_DIR / f"lib{plugin_name}.so"
         if not plugin.is_file():
             problems.append(f"missing plugin: {plugin.relative_to(REPO_ROOT)}")
             continue
@@ -63,12 +112,22 @@ def build_catalog(meta: dict) -> dict:
                 "name": name,
                 "displayName": entry.get("displayName", name),
                 "description": entry.get("description", ""),
-                "url": f"{repository}/lib{name}.so",
+                "url": f"{repository}/lib{plugin_name}.so",
                 "sha256": sha256_of(plugin),
                 "size": plugin.stat().st_size,
                 "ported": bool(entry.get("ported", False)),
             }
         )
+
+    multisrc_entries, multisrc_problems = load_multisrc_entries(repository)
+    problems.extend(multisrc_problems)
+    known_names = {entry["name"] for entry in extensions}
+    for entry in multisrc_entries:
+        if entry["name"] in known_names:
+            problems.append(f"duplicate catalog name: {entry['name']}")
+            continue
+        known_names.add(entry["name"])
+        extensions.append(entry)
 
     catalog = {
         "version": meta.get("version", 1),
