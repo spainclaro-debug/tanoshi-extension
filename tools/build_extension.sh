@@ -9,14 +9,14 @@
 # builds the plugin for Android.
 #
 # Usage:
-#   bash android/native/build_extension.sh                      # all five ported
-#   bash android/native/build_extension.sh --crate android/extensions/sources/template
-#   bash android/native/build_extension.sh --crate /path/to/crate --output-dir /tmp/out
+#   bash tools/build_extension.sh                                # all ported sources
+#   bash tools/build_extension.sh --crate sources/template
+#   bash tools/build_extension.sh --crate /path/to/crate --output-dir /tmp/out
 #
 # Environment:
 #   ANDROID_NDK_HOME   Android NDK (desktop cross-build; otherwise Termux's
 #                      native Rust toolchain is used)
-#   WORK_DIR           build directory (default android/native/.work/extension-build)
+#   WORK_DIR           build directory (default tools/.work/extension-build)
 #   EXTENSIONS_SRC_DIR existing tanoshi-extensions checkout to reuse
 #   EXTENSIONS_TARGET_DIR existing cargo target dir to reuse
 #

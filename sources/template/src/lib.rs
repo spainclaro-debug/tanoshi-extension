@@ -9,7 +9,7 @@
 //! Build it for Android with:
 //!
 //! ```bash
-//! bash android/native/build_extension.sh --crate android/extensions/sources/ported/<your-source>
+//! bash tools/build_extension.sh --crate sources/ported/<your-source>
 //! ```
 //!
 //! See the ported extensions in this directory for complete examples

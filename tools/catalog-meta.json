@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "note": "Prebuilt aarch64-linux-android Tanoshi extensions for the Tanoshi Mobile Server APK. Add this repository in the app: Sources -> Add repository -> https://github.com/spainclaro-debug/tanoshi-extension (or the raw index.json URL).",
+  "repository": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins",
+  "extensions": [
+    {
+      "name": "mangadex",
+      "displayName": "MangaDex",
+      "description": "MangaDex source for the Tanoshi mobile server.",
+      "ported": false
+    },
+    {
+      "name": "guya",
+      "displayName": "Guya",
+      "description": "Guya.moe source for the Tanoshi mobile server.",
+      "ported": false
+    },
+    {
+      "name": "manhwa18cc",
+      "displayName": "Manhwa18.cc",
+      "description": "Manhwa18.cc source for the Tanoshi mobile server.",
+      "ported": false
+    },
+    {
+      "name": "weebcentral",
+      "displayName": "WeebCentral",
+      "description": "WeebCentral source for the Tanoshi mobile server.",
+      "ported": false
+    },
+    {
+      "name": "atsumaru",
+      "displayName": "Atsumaru",
+      "description": "Atsumaru source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "qiscans",
+      "displayName": "QiScans",
+      "description": "QiScans source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "mangaball",
+      "displayName": "MangaBall",
+      "description": "MangaBall source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "madaradex",
+      "displayName": "MadaraDex",
+      "description": "MadaraDex source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "hentainexus",
+      "displayName": "HentaiNexus",
+      "description": "HentaiNexus source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "mangapill",
+      "displayName": "MangaPill",
+      "description": "MangaPill source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "comicklive",
+      "displayName": "Comick",
+      "description": "Comick (comick.live) source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "flamecomics",
+      "displayName": "Flame Comics",
+      "description": "Flame Comics source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "mangaread",
+      "displayName": "MangaRead.org",
+      "description": "MangaRead.org source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "mangasushi",
+      "displayName": "Mangasushi",
+      "description": "Mangasushi source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    }
+  ]
+}

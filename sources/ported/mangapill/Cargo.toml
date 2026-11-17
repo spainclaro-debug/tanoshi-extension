@@ -1,0 +1,17 @@
+[package]
+name = "mangapill"
+version = "1.6.1"
+edition.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = { workspace = true }
+bytes = { workspace = true }
+extension-utils = { workspace = true }
+log = { workspace = true }
+networking = { workspace = true }
+scraper = { workspace = true }
+tanoshi-lib = { workspace = true }
+urlencoding = { workspace = true }

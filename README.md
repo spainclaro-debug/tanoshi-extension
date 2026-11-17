@@ -15,7 +15,7 @@ The app lists the extensions below and installs/updates them over HTTPS after ve
 
 ## Included extensions
 
-| Extension | Source | Kind |
+| Extension | Name | Kind |
 | --- | --- | --- |
 | MangaDex | mangadex | upstream Tanoshi extension |
 | Guya | guya | upstream Tanoshi extension |
@@ -26,8 +26,15 @@ The app lists the extensions below and installs/updates them over HTTPS after ve
 | MangaBall | mangaball | Rust port (this repo's `sources/`) |
 | MadaraDex | madaradex | Rust port (this repo's `sources/`) |
 | HentaiNexus | hentainexus | Rust port (this repo's `sources/`) |
+| MangaPill | mangapill | Rust port (this repo's `sources/`) |
+| Comick | comicklive | Rust port (this repo's `sources/`) |
+| Flame Comics | flamecomics | Rust port (this repo's `sources/`) |
+| MangaRead.org | mangaread | Rust port (this repo's `sources/`) |
+| Mangasushi | mangasushi | Rust port (this repo's `sources/`) |
 
 Only Android `arm64-v8a` is supported.
+
+The Rust ports are ports of [Keiyoushi](https://github.com/keiyoushi/extensions-source) Tachiyomi extensions. Every port in this repository was exercised end-to-end against the live site before being published: popular/latest/search listings, manga details, chapter lists, page lists and a real image download, through the same plugin ABI the server uses. Sites change and break over time; if a source stops working, update its port or open an issue.
 
 ## Repository layout
 
@@ -37,9 +44,14 @@ Only Android `arm64-v8a` is supported.
 │   ├── index.json                 # catalog the app fetches
 │   └── plugins/lib<name>.so       # prebuilt extensions
 ├── tanoshi-extensions.json        # same catalog at the repo root (convenience)
-├── sources/                       # Rust sources of the five ported extensions + template
+├── sources/
+│   ├── ported/<name>/             # Rust source of each ported extension
+│   └── template/                  # skeleton crate for porting a new source
 ├── patches/                       # patches applied to the tanoshi-extensions workspace
-├── tools/build_extension.sh       # build a source into plugins/lib<name>.so
+├── tools/
+│   ├── build_extension.sh         # build a source into plugins/lib<name>.so
+│   ├── catalog-meta.json          # human catalog fields (single source of truth)
+│   └── update_catalog.py          # regenerate both catalogs from the plugins
 └── LICENSE
 ```
 
@@ -71,9 +83,18 @@ The app accepts this repository as a GitHub link because it looks for
 - `sha256` is optional in the app but should always be set here; the app verifies it when present.
 - `size` must be the exact byte size.
 
+Do not edit the catalogs by hand. Edit `tools/catalog-meta.json` (display names,
+descriptions) if needed, drop the rebuilt `.so` into `android/extensions/plugins/`,
+then regenerate both catalogs with the hashes and sizes filled in:
+
+```bash
+python3 tools/update_catalog.py          # rewrite android/extensions/index.json and tanoshi-extensions.json
+python3 tools/update_catalog.py --check  # verify the catalogs match the plugins (CI/pre-commit)
+```
+
 ## Porting / building a new extension
 
-The five ported extensions are the reference implementations. To add a source:
+The ported extensions in `sources/ported/` are the reference implementations. To add a source:
 
 1. Copy `sources/template/` to `sources/ported/<your-source>/` and rename the crate; implement the `Extension` trait methods (see `sources/README.md` and the ported crates).
 2. Build it for Android from the repository root (Termux on the phone, or a desktop with the Android NDK and the `aarch64-linux-android` Rust target):
@@ -83,14 +104,16 @@ The five ported extensions are the reference implementations. To add a source:
    ```
 
    The script clones `luigi311/tanoshi-extensions`, applies `patches/`, builds a 16 KB-aligned plugin, strips it to `android/extensions/plugins/lib<name>.so`, and prints the SHA-256, size and catalog entry.
-3. Add the printed entry to `android/extensions/index.json` (and `tanoshi-extensions.json` if you keep both), commit and push.
-4. In the app: **Sources → Refresh** (or re-add the repo) and install the new extension.
+3. Add the extension to `tools/catalog-meta.json` (a `name` entry with `displayName`, `description`, `ported: true`), then run `python3 tools/update_catalog.py`.
+4. Commit and push. In the app: **Sources → Refresh** (or re-add the repo) and install the new extension.
 
 A plugin must be built against the **same `tanoshi-lib` version as the app's server** (0.38.0 for the 0.6/0.7 app line) and for `aarch64-linux-android`. Version mismatches are reported in the server logs and the extension is skipped.
 
 ## Updating an extension
 
-Rebuild/replace the `.so` in `android/extensions/plugins/`, update its `sha256` and `size` in `android/extensions/index.json`, commit and push. The app will show **Update available** on the next catalog refresh.
+Rebuild/replace the `.so` in `android/extensions/plugins/`, then run
+`python3 tools/update_catalog.py` (it refreshes `sha256`/`size`), commit and push.
+The app will show **Update available** on the next catalog refresh.
 
 ## Security / trust
 
@@ -98,4 +121,4 @@ Extensions are native code that runs inside the Tanoshi server process with the 
 
 ## Credits / license
 
-The Tanoshi extensions originate from [luigi311/tanoshi-extensions](https://github.com/luigi311/tanoshi-extensions) (MIT). The five Rust ports in `sources/ported/` are ports of Keiyoushi Tachiyomi extensions; see the source headers. This repository's `LICENSE` applies to the packaging/tooling.
+The upstream Tanoshi extensions originate from [luigi311/tanoshi-extensions](https://github.com/luigi311/tanoshi-extensions). The Rust ports in `sources/ported/` are ports of [Keiyoushi](https://github.com/keiyoushi/extensions-source) Tachiyomi extensions, which are Apache-2.0 licensed; see each port's module header and [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md). This repository's own packaging and tooling are MIT licensed (see [`LICENSE`](LICENSE)).

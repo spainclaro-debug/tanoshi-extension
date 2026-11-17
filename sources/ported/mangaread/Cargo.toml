@@ -1,0 +1,16 @@
+[package]
+name = "mangaread"
+version = "0.6.61"
+edition.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = { workspace = true }
+extension-utils = { workspace = true }
+log = { workspace = true }
+networking = { workspace = true }
+scraper = { workspace = true }
+tanoshi-lib = { workspace = true }
+urlencoding = { workspace = true }

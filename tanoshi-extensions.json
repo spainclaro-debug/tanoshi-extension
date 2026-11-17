@@ -83,6 +83,51 @@
       "sha256": "da00981e0c6d0e6c3bda2f66aa16075ce432fb7364d0bd83c43eaa3ea67806bd",
       "size": 2965344,
       "ported": true
+    },
+    {
+      "name": "mangapill",
+      "displayName": "MangaPill",
+      "description": "MangaPill source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangapill.so",
+      "sha256": "f1390d90a560b57a82fac1af811b560bfd0ea8ad3ad8e4bd2757cc7f62fbf0d2",
+      "size": 2921256,
+      "ported": true
+    },
+    {
+      "name": "comicklive",
+      "displayName": "Comick",
+      "description": "Comick (comick.live) source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libcomicklive.so",
+      "sha256": "fc94dbbcb0819c2861ce284a3a91bd065bc4e8c478bf4504cf6957c75d95a369",
+      "size": 3025960,
+      "ported": true
+    },
+    {
+      "name": "flamecomics",
+      "displayName": "Flame Comics",
+      "description": "Flame Comics source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libflamecomics.so",
+      "sha256": "50d8afabc3cbd7e47154ff05de91188d6df64110e6aad4ecb0a460f1b6e7908e",
+      "size": 3068104,
+      "ported": true
+    },
+    {
+      "name": "mangaread",
+      "displayName": "MangaRead.org",
+      "description": "MangaRead.org source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangaread.so",
+      "sha256": "49293c122a71020b034d7d08e7be72c4defd7627c0c034892a34a3045845769c",
+      "size": 2906896,
+      "ported": true
+    },
+    {
+      "name": "mangasushi",
+      "displayName": "Mangasushi",
+      "description": "Mangasushi source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangasushi.so",
+      "sha256": "87ff56f56bd7403c0e1f42dddeec5f3cdce08535f74f0dd2979c455e4fdedbd9",
+      "size": 2906896,
+      "ported": true
     }
   ]
 }
