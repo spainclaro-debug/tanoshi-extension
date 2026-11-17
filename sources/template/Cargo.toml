@@ -1,0 +1,25 @@
+[package]
+name = "myextension"
+version = "0.1.0"
+edition.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+# The extension is built inside the luigi311/tanoshi-extensions workspace
+# (android/native/build_extension.sh copies it there), which provides these
+# workspace dependencies and shared crates.
+[dependencies]
+anyhow = { workspace = true }
+extension-utils = { workspace = true }
+log = { workspace = true }
+tanoshi-lib = { workspace = true }
+
+# Add what the port needs, e.g.:
+# networking = { workspace = true }
+# serde = { workspace = true }
+# serde_json = { workspace = true }
+# scraper = { workspace = true }
+# urlencoding = { workspace = true }
+# chrono = { workspace = true }
+# bytes = { workspace = true }

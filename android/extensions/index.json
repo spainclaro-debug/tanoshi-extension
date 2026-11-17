@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "updated": "2026-11-17",
+  "note": "Prebuilt aarch64-linux-android Tanoshi extensions for the Tanoshi Mobile Server APK. Add this repository in the app: Sources -> Add repository -> https://github.com/spainclaro-debug/tanoshi-extension (or the raw index.json URL).",
+  "extensions": [
+    {
+      "name": "mangadex",
+      "displayName": "MangaDex",
+      "description": "MangaDex source for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangadex.so",
+      "sha256": "d6b0e83f3b02e180f4d65e09fa083bcd14f8b10ccee1bd11ff7983b6566c7a47",
+      "size": 4461728,
+      "ported": false
+    },
+    {
+      "name": "guya",
+      "displayName": "Guya",
+      "description": "Guya.moe source for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libguya.so",
+      "sha256": "21b32eecece0adcbfdb4dddd740c6912020b0932f4dd9d3fdcc2e4e9969395da",
+      "size": 3010976,
+      "ported": false
+    },
+    {
+      "name": "manhwa18cc",
+      "displayName": "Manhwa18.cc",
+      "description": "Manhwa18.cc source for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmanhwa18cc.so",
+      "sha256": "ebf9386ea87264925798ac90462774d3314125047d4e73b33c2c43a6864e6150",
+      "size": 2979912,
+      "ported": false
+    },
+    {
+      "name": "weebcentral",
+      "displayName": "WeebCentral",
+      "description": "WeebCentral source for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libweebcentral.so",
+      "sha256": "1d1da6b1c80f5341a41e995d67d5e9481f03d4c021d6988a1a8c89948d280412",
+      "size": 2958632,
+      "ported": false
+    },
+    {
+      "name": "atsumaru",
+      "displayName": "Atsumaru",
+      "description": "Atsumaru source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libatsumaru.so",
+      "sha256": "1bbe4144a3464c6eecae363a9aedcf1122bc963f0bc42516a387f545f57d5883",
+      "size": 3063224,
+      "ported": true
+    },
+    {
+      "name": "qiscans",
+      "displayName": "QiScans",
+      "description": "QiScans source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libqiscans.so",
+      "sha256": "37a211a4f210ad1866ec1cf2466492eb6f895d7112b616e8a7203ace80298b59",
+      "size": 2987832,
+      "ported": true
+    },
+    {
+      "name": "mangaball",
+      "displayName": "MangaBall",
+      "description": "MangaBall source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmangaball.so",
+      "sha256": "384b4e3db9131d42c855ed9c410989595506b720b37828a756f64f5e4b03bdb4",
+      "size": 3043496,
+      "ported": true
+    },
+    {
+      "name": "madaradex",
+      "displayName": "MadaraDex",
+      "description": "MadaraDex source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmadaradex.so",
+      "sha256": "26451dbcf8e75098cef599e14520780e35c24174874f3f3c4f7f6855345a8cd9",
+      "size": 2908688,
+      "ported": true
+    },
+    {
+      "name": "hentainexus",
+      "displayName": "HentaiNexus",
+      "description": "HentaiNexus source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libhentainexus.so",
+      "sha256": "da00981e0c6d0e6c3bda2f66aa16075ce432fb7364d0bd83c43eaa3ea67806bd",
+      "size": 2965344,
+      "ported": true
+    }
+  ]
+}
