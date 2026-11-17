@@ -42,6 +42,18 @@
       "plugin": "zeistmanga_multisrc",
       "sites": "sources/multisrc/zeistmanga/sites.json",
       "verified": "sources/multisrc/zeistmanga/verified.json"
+    },
+    {
+      "theme": "kemono",
+      "plugin": "kemono_multisrc",
+      "sites": "sources/multisrc/kemono/sites.json",
+      "verified": "sources/multisrc/kemono/verified.json"
+    },
+    {
+      "theme": "masonry",
+      "plugin": "masonry_multisrc",
+      "sites": "sources/multisrc/masonry/sites.json",
+      "verified": "sources/multisrc/masonry/verified.json"
     }
   ]
 }

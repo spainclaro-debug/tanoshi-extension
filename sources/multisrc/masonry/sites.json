@@ -1,0 +1,65 @@
+[
+ {
+  "key": "masonry-elitebabes",
+  "name": "Elite Babes",
+  "url": "https://www.elitebabes.com",
+  "id": 6842598531101194683,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/elitebabes/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "masonry-femjoyhunter",
+  "name": "Femjoy Hunter",
+  "url": "https://www.femjoyhunter.com",
+  "id": 9185590742756804817,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/femjoyhunter/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "masonry-ftvhunter",
+  "name": "FTV Hunter",
+  "url": "https://www.ftvhunter.com",
+  "id": 2424130356866336342,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/ftvhunter/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "masonry-joymiihub",
+  "name": "Joymii Hub",
+  "url": "https://www.joymiihub.com",
+  "id": 8421979328901634475,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/joymiihub/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "masonry-metarthunter",
+  "name": "Metart Hunter",
+  "url": "https://www.metarthunter.com",
+  "id": 3567512546321944475,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/metarthunter/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "masonry-pmatehunter",
+  "name": "Playmate Hunter",
+  "url": "https://pmatehunter.com",
+  "id": 1082062847119890629,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/playmatehunter/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "masonry-xarthunter",
+  "name": "XArt Hunter",
+  "url": "https://www.xarthunter.com",
+  "id": 7425515716363969566,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xarthunter/res/mipmap-xhdpi/ic_launcher.png"
+ }
+]

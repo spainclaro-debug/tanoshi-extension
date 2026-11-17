@@ -86,6 +86,66 @@
       "displayName": "Mangasushi",
       "description": "Mangasushi source, ported to Rust for the Tanoshi mobile server.",
       "ported": true
+    },
+    {
+      "name": "buondua",
+      "displayName": "Buon Dua",
+      "description": "BuonDua adult gallery source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "cosplaytele",
+      "displayName": "CosplayTele",
+      "description": "CosplayTele adult cosplay gallery source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "everiaclub",
+      "displayName": "Everia.club",
+      "description": "Everia.club adult photo-set source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "foamgirl",
+      "displayName": "FoamGirl",
+      "description": "FoamGirl adult gallery source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "junmeitu",
+      "displayName": "Junmeitu",
+      "description": "Junmeitu adult photo-set source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "misskon",
+      "displayName": "MissKon",
+      "description": "MissKon adult photo-blog source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "mitaku",
+      "displayName": "Mitaku",
+      "description": "Mitaku adult cosplay gallery source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "ososedki",
+      "displayName": "OSOSEDKI",
+      "description": "OSOSEDKI adult album source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "photos18",
+      "displayName": "Photos18",
+      "description": "Photos18 adult gallery source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
+    },
+    {
+      "name": "rokuhentai",
+      "displayName": "RokuHentai",
+      "description": "RokuHentai adult doujinshi gallery source, ported to Rust for the Tanoshi mobile server.",
+      "ported": true
     }
   ]
 }

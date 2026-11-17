@@ -130,6 +130,96 @@
       "ported": true
     },
     {
+      "name": "buondua",
+      "displayName": "Buon Dua",
+      "description": "BuonDua adult gallery source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libbuondua.so",
+      "sha256": "5429b21ec46387b1455d0f57513f258c4a3e3c6d2db586208f97635a3d2322e9",
+      "size": 2929120,
+      "ported": true
+    },
+    {
+      "name": "cosplaytele",
+      "displayName": "CosplayTele",
+      "description": "CosplayTele adult cosplay gallery source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libcosplaytele.so",
+      "sha256": "e5d0a4042b63025672ebc81afeafd603aea9309ed90acf7cc97411100e7de73a",
+      "size": 2940176,
+      "ported": true
+    },
+    {
+      "name": "everiaclub",
+      "displayName": "Everia.club",
+      "description": "Everia.club adult photo-set source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libeveriaclub.so",
+      "sha256": "6d7753f2147576a1f19414143bbbc4c03b529ababb867d6d36692528a541022f",
+      "size": 2936824,
+      "ported": true
+    },
+    {
+      "name": "foamgirl",
+      "displayName": "FoamGirl",
+      "description": "FoamGirl adult gallery source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libfoamgirl.so",
+      "sha256": "c359a7a337386279e47aa8c7a06d62205fbc646f28f7aacf95dad1244b4bb7c9",
+      "size": 2921864,
+      "ported": true
+    },
+    {
+      "name": "junmeitu",
+      "displayName": "Junmeitu",
+      "description": "Junmeitu adult photo-set source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libjunmeitu.so",
+      "sha256": "ca5036cdd7f1c7c9d6421a902d576e5992857d78e8127da4829dc0f013fbf541",
+      "size": 2965192,
+      "ported": true
+    },
+    {
+      "name": "misskon",
+      "displayName": "MissKon",
+      "description": "MissKon adult photo-blog source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmisskon.so",
+      "sha256": "43ab600b0df4c3a4f8d285aa36c7bf745d658c7032b6a59ba0c69b7377dc7a8f",
+      "size": 2890584,
+      "ported": true
+    },
+    {
+      "name": "mitaku",
+      "displayName": "Mitaku",
+      "description": "Mitaku adult cosplay gallery source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmitaku.so",
+      "sha256": "34c393503a79ea4ea01d70848ceb3b89986245a7a233be56625c3c4fddda02b4",
+      "size": 2890568,
+      "ported": true
+    },
+    {
+      "name": "ososedki",
+      "displayName": "OSOSEDKI",
+      "description": "OSOSEDKI adult album source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libososedki.so",
+      "sha256": "788e01aca1bfa033e2a224d4e22b0c14d5473c9da50c034a2d3f95e40e754685",
+      "size": 2937488,
+      "ported": true
+    },
+    {
+      "name": "photos18",
+      "displayName": "Photos18",
+      "description": "Photos18 adult gallery source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libphotos18.so",
+      "sha256": "3a1a5f3b13ce0a02f2310d2ed990f617614b8ad0f5d758ef7b21b4fc722b20ae",
+      "size": 2886352,
+      "ported": true
+    },
+    {
+      "name": "rokuhentai",
+      "displayName": "RokuHentai",
+      "description": "RokuHentai adult doujinshi gallery source, ported to Rust for the Tanoshi mobile server.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/librokuhentai.so",
+      "sha256": "14ccaa1c5a30b24cccc3138c24909a4d6db40e07223245e81d5850c5a657ae88",
+      "size": 2950880,
+      "ported": true
+    },
+    {
       "name": "madara-fastestmanga-en",
       "displayName": "Fastest Manga",
       "description": "Fastest Manga \u2014 madara theme source (en) ported from Keiyoushi.",
@@ -2863,6 +2953,87 @@
       "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libzeistmanga_multisrc.so",
       "sha256": "fcbb97e58fe3036c9e03ea7f66ada5a2a0faf2df7829b170371c16483b61024d",
       "size": 3063960,
+      "ported": true
+    },
+    {
+      "name": "kemono-coomer",
+      "displayName": "Coomer",
+      "description": "Coomer \u2014 kemono theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkemono_multisrc.so",
+      "sha256": "d086c4e8861665e67645c5f524fcd8a3c4215cbe80548afd9711bd53caaa4edd",
+      "size": 2104784,
+      "ported": true
+    },
+    {
+      "name": "kemono-kemono",
+      "displayName": "Kemono",
+      "description": "Kemono \u2014 kemono theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libkemono_multisrc.so",
+      "sha256": "d086c4e8861665e67645c5f524fcd8a3c4215cbe80548afd9711bd53caaa4edd",
+      "size": 2104784,
+      "ported": true
+    },
+    {
+      "name": "masonry-elitebabes",
+      "displayName": "Elite Babes",
+      "description": "Elite Babes \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
+      "ported": true
+    },
+    {
+      "name": "masonry-femjoyhunter",
+      "displayName": "Femjoy Hunter",
+      "description": "Femjoy Hunter \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
+      "ported": true
+    },
+    {
+      "name": "masonry-ftvhunter",
+      "displayName": "FTV Hunter",
+      "description": "FTV Hunter \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
+      "ported": true
+    },
+    {
+      "name": "masonry-joymiihub",
+      "displayName": "Joymii Hub",
+      "description": "Joymii Hub \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
+      "ported": true
+    },
+    {
+      "name": "masonry-metarthunter",
+      "displayName": "Metart Hunter",
+      "description": "Metart Hunter \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
+      "ported": true
+    },
+    {
+      "name": "masonry-pmatehunter",
+      "displayName": "Playmate Hunter",
+      "description": "Playmate Hunter \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
+      "ported": true
+    },
+    {
+      "name": "masonry-xarthunter",
+      "displayName": "XArt Hunter",
+      "description": "XArt Hunter \u2014 masonry theme source (all) ported from Keiyoushi.",
+      "url": "https://raw.githubusercontent.com/spainclaro-debug/tanoshi-extension/main/android/extensions/plugins/libmasonry_multisrc.so",
+      "sha256": "3230d5f0ead3f472493e15a75afd7a72f57e83483f081021f14fcab7c6083093",
+      "size": 2914520,
       "ported": true
     }
   ]

@@ -1,0 +1,20 @@
+[
+ {
+  "key": "kemono-coomer",
+  "name": "Coomer",
+  "url": "https://coomer.st",
+  "id": 8715899195746116471,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/kemono/res/mipmap-xhdpi/ic_launcher.png"
+ },
+ {
+  "key": "kemono-kemono",
+  "name": "Kemono",
+  "url": "https://kemono.cr",
+  "id": 2011050813940802605,
+  "lang": "all",
+  "nsfw": true,
+  "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/kemono/res/mipmap-xhdpi/ic_launcher.png"
+ }
+]

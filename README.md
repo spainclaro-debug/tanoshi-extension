@@ -44,10 +44,12 @@ with one catalog entry per site: all entries of a theme point at the same `.so`,
 plugin selects its site configuration from the installed file name at runtime. Installing
 one catalog entry still installs one extension (one Tanoshi source).
 
-The catalog currently contains **318 installable entries**: 14 individual/upstream
-extensions and 304 verified theme sources (Madara 95, MangaThemesia 70, GalleryAdults 54,
-HentaiHand 38, ZeistManga 24, MangaCatalog 17, Keyoapp 6), of which **164 are NSFW/18+**
-sources. The catalog includes **NSFW / 18+ sources**; they are reported as NSFW by the
+The catalog currently contains **337 installable entries**: 24 individual/upstream
+extensions (including the adult gallery ports BuonDua, CosplayTele, Everia.club, FoamGirl,
+Junmeitu, MissKon, Mitaku, OSOSEDKI, Photos18, RokuHentai and the Tanoshi/Keiyoushi
+sources) and 313 verified theme sources (Madara 95, MangaThemesia 70, GalleryAdults 54,
+HentaiHand 38, ZeistManga 24, MangaCatalog 17, Keyoapp 6, Masonry 7, Kemono 2), of which
+**183 are NSFW/18+** sources. The catalog includes **NSFW / 18+ sources**; they are reported as NSFW by the
 server. Only sites that were verified end-to-end against the live site (listings,
 details, chapters, pages, image download) are listed.
 

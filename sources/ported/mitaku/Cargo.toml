@@ -1,0 +1,17 @@
+[package]
+name = "mitaku"
+version = "1.0.0"
+edition.workspace = true
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = { workspace = true }
+chrono = { workspace = true }
+extension-utils = { workspace = true }
+log = { workspace = true }
+networking = { workspace = true }
+scraper = { workspace = true }
+tanoshi-lib = { workspace = true }
+urlencoding = { workspace = true }
