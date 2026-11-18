@@ -1,6 +1,6 @@
 # Tanoshi extensions
 
-Prebuilt extensions (sources) for the **[Tanoshi Mobile Server APK](https://github.com/spainclaro-debug/tanoshi-termux)** — the standalone Android app that bundles the Tanoshi manga server. This is the extension repository the app can install from at runtime.
+Prebuilt extensions (sources) for the **[Tanoshi Mobile Server APK](https://github.com/spainclaro-debug/tanoshi-mobile)** — the standalone Android app that bundles the Tanoshi manga server. This is the extension repository the app can install from at runtime.
 
 > **Android-only.** These plugins are native `aarch64-linux-android` shared objects built for the Tanoshi server bundled in the Tanoshi Mobile Server APK (Tanoshi 0.40.0 / `tanoshi-lib` 0.38.0). They **do not work** with the Termux package, the desktop/server builds of Tanoshi, or Tachiyomi/Keiyoushi/Mihon. They are not Android APKs.
 
